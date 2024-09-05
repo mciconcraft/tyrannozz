@@ -1,0 +1,3149 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "minecraft google play",
+      "image": "https://lh3.googleusercontent.com/d/https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Minecraft Skin",
+      "image": "https://lh3.googleusercontent.com/d/http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "minecraft play store",
+      "image": "https://lh3.googleusercontent.com/d/file:///android_asset/image/car.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "title": "Superhero_001",
+      "image": "file:///android_asset/view/superhero_001.png",
+      "skin": "https://1.bp.blogspot.com/-DXyZWZITYWM/YV1lWtenfiI/AAAAAAAAAeo/ZL4PcWzb16wf7_VaI5sX-FjxPU93OdZMgCLcBGAsYHQ/s0/superhero_001.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_01.mcpack"
+    },
+    {
+      "id": 2,
+      "name_category": "Nature",
+      "title": "Superhero_002",
+      "image": "file:///android_asset/view/superhero_002.png",
+      "skin": "https://1.bp.blogspot.com/-wHUFmXB54mk/YV1lWsssr7I/AAAAAAAAAek/ikZl1r8sI_YAd0HWs9s7J8st9LnIo2m3wCLcBGAsYHQ/s0/superhero_002.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_01.mcpack"
+    },
+    {
+      "id": 3,
+      "name_category": "Nature",
+      "title": "Superhero_003",
+      "image": "file:///android_asset/view/superhero_003.png",
+      "skin": "https://1.bp.blogspot.com/-l_FVjqwGLJI/YV1lWk4chCI/AAAAAAAAAeg/wXABb1Z0ou0zEXXD_AELwUS2lRC9fGqHQCLcBGAsYHQ/s0/superhero_003.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_01.mcpack"
+    },
+    {
+      "id": 4,
+      "name_category": "Nature",
+      "title": "Superhero_004",
+      "image": "file:///android_asset/view/superhero_004.png",
+      "skin": "https://1.bp.blogspot.com/-bs1sSraQlrA/YV1lXTdM63I/AAAAAAAAAes/XZJtQEs1v-QzSeaH07rKbqnyUft2n70GwCLcBGAsYHQ/s0/superhero_004.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_01.mcpack"
+    },
+    {
+      "id": 5,
+      "name_category": "Nature",
+      "title": "Superhero_005",
+      "image": "file:///android_asset/view/superhero_005.png",
+      "skin": "https://1.bp.blogspot.com/-_vwwX2mUFgA/YV1lXrsCshI/AAAAAAAAAew/hW0Zo1y2VFMrHKcgSsYXomQEx3DIdsxewCLcBGAsYHQ/s0/superhero_005.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_01.mcpack"
+    },
+    {
+      "id": 6,
+      "name_category": "Nature",
+      "title": "Superhero_006",
+      "image": "file:///android_asset/view/superhero_006.png",
+      "skin": "https://1.bp.blogspot.com/-C24IDTTrS-w/YV1lX-sYU0I/AAAAAAAAAe0/TflbhBHAy2AyBNrx-79G-Y2sTA-P2t7egCLcBGAsYHQ/s0/superhero_006.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_01.mcpack"
+    },
+    {
+      "id": 7,
+      "name_category": "Nature",
+      "title": "Superhero_007",
+      "image": "file:///android_asset/view/superhero_007.png",
+      "skin": "https://1.bp.blogspot.com/-8_eLqqAXbjs/YV1lYUErw6I/AAAAAAAAAe4/uSKF7bSUXxIDjiuK7Yohf6_5DPUQ5wbTACLcBGAsYHQ/s0/superhero_007.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_01.mcpack"
+    },
+    {
+      "id": 8,
+      "name_category": "Nature",
+      "title": "Superhero_008",
+      "image": "file:///android_asset/view/superhero_008.png",
+      "skin": "https://1.bp.blogspot.com/-cglauVyxksE/YV1lYoKZ-zI/AAAAAAAAAe8/kDX2Dg45Ah8vpQxpfsCVV2qOMLGi6jKOwCLcBGAsYHQ/s0/superhero_008.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_01.mcpack"
+    },
+    {
+      "id": 9,
+      "name_category": "Nature",
+      "title": "Superhero_009",
+      "image": "file:///android_asset/view/superhero_009.png",
+      "skin": "https://1.bp.blogspot.com/-t2gRIc0-FXQ/YV1lY9T94kI/AAAAAAAAAfA/wipf1syXGdk8JNrWrMUU4SUyxNdGy2XLwCLcBGAsYHQ/s0/superhero_009.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_01.mcpack"
+    },
+    {
+      "id": 10,
+      "name_category": "Nature",
+      "title": "Superhero_010",
+      "image": "file:///android_asset/view/superhero_010.png",
+      "skin": "https://1.bp.blogspot.com/-e6ikYQO5Vic/YV1lZAUxViI/AAAAAAAAAfE/2LR7832aTkELtZtwTrTRLjpcLpZHXRqFgCLcBGAsYHQ/s0/superhero_010.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_01.mcpack"
+    },
+    {
+      "id": 11,
+      "name_category": "Nature",
+      "title": "Superhero_011",
+      "image": "file:///android_asset/view/superhero_011.png",
+      "skin": "https://1.bp.blogspot.com/-v28T5_D3Azo/YV1lZVG07gI/AAAAAAAAAfI/B0T5C14ZK9QHqoy34b1RDkIE_nrh2YZwQCLcBGAsYHQ/s0/superhero_011.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_02.mcpack"
+    },
+    {
+      "id": 12,
+      "name_category": "Nature",
+      "title": "Superhero_012",
+      "image": "file:///android_asset/view/superhero_012.png",
+      "skin": "https://1.bp.blogspot.com/-diRBsWGdnRQ/YV1lZRhX0EI/AAAAAAAAAfM/okTmFMSOhLk42FfG8vuvWrPb8gDxE2C9QCLcBGAsYHQ/s0/superhero_012.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_02.mcpack"
+    },
+    {
+      "id": 13,
+      "name_category": "Nature",
+      "title": "Superhero_013",
+      "image": "file:///android_asset/view/superhero_013.png",
+      "skin": "https://1.bp.blogspot.com/-iVhFy45edIk/YV1lZ0nG11I/AAAAAAAAAfQ/cdBlySGUVeMzt1KTna91LfNTBbkMnPE6QCLcBGAsYHQ/s0/superhero_013.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_02.mcpack"
+    },
+    {
+      "id": 14,
+      "name_category": "Nature",
+      "title": "Superhero_014",
+      "image": "file:///android_asset/view/superhero_014.png",
+      "skin": "https://1.bp.blogspot.com/-T0FNMe3NNr8/YV1laEV1n_I/AAAAAAAAAfY/6M6STSrMhCk4q4EI1SJeMEiuRDlUaYW5ACLcBGAsYHQ/s0/superhero_014.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_02.mcpack"
+    },
+    {
+      "id": 15,
+      "name_category": "Nature",
+      "title": "Superhero_015",
+      "image": "file:///android_asset/view/superhero_015.png",
+      "skin": "https://1.bp.blogspot.com/-DGlcpk-aW7w/YV1laG41pxI/AAAAAAAAAfU/ADHawA-8jiUNyvyH4Jlc2plcerijA8mcwCLcBGAsYHQ/s0/superhero_015.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_02.mcpack"
+    },
+    {
+      "id": 16,
+      "name_category": "Nature",
+      "title": "Superhero_016",
+      "image": "file:///android_asset/view/superhero_016.png",
+      "skin": "https://1.bp.blogspot.com/-leYkPt45FiQ/YV1lay89EpI/AAAAAAAAAfc/SCnIwwKF_SsYUMF3c0DPTAxeNgn3y8IxQCLcBGAsYHQ/s0/superhero_016.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_02.mcpack"
+    },
+    {
+      "id": 17,
+      "name_category": "Nature",
+      "title": "Superhero_017",
+      "image": "file:///android_asset/view/superhero_017.png",
+      "skin": "https://1.bp.blogspot.com/-LJS43R5HxKE/YV1lbCohmTI/AAAAAAAAAfg/PUA8ahpkqZgp-kYtWacNMaVph32If0MEwCLcBGAsYHQ/s0/superhero_017.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_02.mcpack"
+    },
+    {
+      "id": 18,
+      "name_category": "Nature",
+      "title": "Superhero_018",
+      "image": "file:///android_asset/view/superhero_018.png",
+      "skin": "https://1.bp.blogspot.com/-RvcGwODAmt8/YV1lbTtMkZI/AAAAAAAAAfk/gZiVC6sMJx8x9hSb00ek7BeLDDzPgc-DgCLcBGAsYHQ/s0/superhero_018.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_02.mcpack"
+    },
+    {
+      "id": 19,
+      "name_category": "Nature",
+      "title": "Superhero_019",
+      "image": "file:///android_asset/view/superhero_019.png",
+      "skin": "https://1.bp.blogspot.com/-jMvo2-mUFpI/YV1lbqLvjgI/AAAAAAAAAfo/iCQg46MGf6YKDmqlOX4bTfuR53jP_nCjQCLcBGAsYHQ/s0/superhero_019.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_02.mcpack"
+    },
+    {
+      "id": 20,
+      "name_category": "Nature",
+      "title": "Superhero_020",
+      "image": "file:///android_asset/view/superhero_020.png",
+      "skin": "https://1.bp.blogspot.com/-_33iJ5Rqcjw/YV1lb-v9z9I/AAAAAAAAAfs/8ThvwAQzD2kmCarl7woEh6jz0IqWI6jqwCLcBGAsYHQ/s0/superhero_020.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_02.mcpack"
+    },
+    {
+      "id": 21,
+      "name_category": "Nature",
+      "title": "Superhero_021",
+      "image": "file:///android_asset/view/superhero_021.png",
+      "skin": "https://1.bp.blogspot.com/-SvqWVUNKsXE/YV1lcLgGU9I/AAAAAAAAAfw/N61Fq6nbqp0dp4oXhPP8kOAB8IodYeEfgCLcBGAsYHQ/s0/superhero_021.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_03.mcpack"
+    },
+    {
+      "id": 22,
+      "name_category": "Nature",
+      "title": "Superhero_022",
+      "image": "file:///android_asset/view/superhero_022.png",
+      "skin": "https://1.bp.blogspot.com/-d6Th7nLQYTY/YV1lcir7g3I/AAAAAAAAAf0/iW9AgZLc9g8GRIiNvlgq5pk3Ig0b3rmSgCLcBGAsYHQ/s0/superhero_022.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_03.mcpack"
+    },
+    {
+      "id": 23,
+      "name_category": "Nature",
+      "title": "Superhero_023",
+      "image": "file:///android_asset/view/superhero_023.png",
+      "skin": "https://1.bp.blogspot.com/-v4WRnb8B7bQ/YV1lc4KcU1I/AAAAAAAAAf4/BnEoJO-7EyE_KwytceMwQR8RguapYgZKQCLcBGAsYHQ/s0/superhero_023.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_03.mcpack"
+    },
+    {
+      "id": 24,
+      "name_category": "Nature",
+      "title": "Superhero_024",
+      "image": "file:///android_asset/view/superhero_024.png",
+      "skin": "https://1.bp.blogspot.com/-Q7LXKUilyBE/YV1lc2n6W_I/AAAAAAAAAf8/8gcFZBL4jjYFBgh823J6LZ2gjmW4FHrMQCLcBGAsYHQ/s0/superhero_024.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_03.mcpack"
+    },
+    {
+      "id": 25,
+      "name_category": "Nature",
+      "title": "Superhero_025",
+      "image": "file:///android_asset/view/superhero_025.png",
+      "skin": "https://1.bp.blogspot.com/-s3OEMJDBuy4/YV1lda2KiPI/AAAAAAAAAgA/VjHM7ibHrYwW7LUT-wqva1J4zPVdNZRxgCLcBGAsYHQ/s0/superhero_025.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_03.mcpack"
+    },
+    {
+      "id": 26,
+      "name_category": "Nature",
+      "title": "Superhero_026",
+      "image": "file:///android_asset/view/superhero_026.png",
+      "skin": "https://1.bp.blogspot.com/-3GMookTjg9w/YV1ldpaJpGI/AAAAAAAAAgE/IJrVNJiU17YX5iO0VFXcn69o5Sta08QAwCLcBGAsYHQ/s0/superhero_026.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_03.mcpack"
+    },
+    {
+      "id": 27,
+      "name_category": "Nature",
+      "title": "Superhero_027",
+      "image": "file:///android_asset/view/superhero_027.png",
+      "skin": "https://1.bp.blogspot.com/-qdAmkCneN-U/YV1ld7npQVI/AAAAAAAAAgI/wp089hJw9UIPWzWgo1yTkOt7o3XBjbd-wCLcBGAsYHQ/s0/superhero_027.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_03.mcpack"
+    },
+    {
+      "id": 28,
+      "name_category": "Nature",
+      "title": "Superhero_028",
+      "image": "file:///android_asset/view/superhero_028.png",
+      "skin": "https://1.bp.blogspot.com/-ZIXS9A5IJ08/YV1leWCGseI/AAAAAAAAAgQ/kqSwYzkuQzsmEhebKqVkd2rnZp1xVvFQQCLcBGAsYHQ/s0/superhero_028.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_03.mcpack"
+    },
+    {
+      "id": 29,
+      "name_category": "Nature",
+      "title": "Superhero_029",
+      "image": "file:///android_asset/view/superhero_029.png",
+      "skin": "https://1.bp.blogspot.com/-hBKvcAsbkn4/YV1leYxkenI/AAAAAAAAAgM/hS4_pkogt5EQjYjCtVCh7VtyuYyhPetHACLcBGAsYHQ/s0/superhero_029.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_03.mcpack"
+    },
+    {
+      "id": 30,
+      "name_category": "Nature",
+      "title": "Superhero_030",
+      "image": "file:///android_asset/view/superhero_030.png",
+      "skin": "https://1.bp.blogspot.com/-rIU64MFqOvI/YV1ler0ZJDI/AAAAAAAAAgU/VSBZ7nvJWP82tPCBvu2rYg6chrZrCMdZwCLcBGAsYHQ/s0/superhero_030.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_03.mcpack"
+    },
+    {
+      "id": 31,
+      "name_category": "Nature",
+      "title": "Superhero_031",
+      "image": "file:///android_asset/view/superhero_031.png",
+      "skin": "https://1.bp.blogspot.com/-rJV3Yr6duNQ/YV1lfGO_98I/AAAAAAAAAgY/ENu8TmGz9hMKAcyLFFgTVvUaw0HlU6L-ACLcBGAsYHQ/s0/superhero_031.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_04.mcpack"
+    },
+    {
+      "id": 32,
+      "name_category": "Nature",
+      "title": "Superhero_032",
+      "image": "file:///android_asset/view/superhero_032.png",
+      "skin": "https://1.bp.blogspot.com/-Jv4iCtjWCxY/YV1lfgPmtxI/AAAAAAAAAgg/8B2FNBlSzf01Gss3qIavSOGnvRetpid8ACLcBGAsYHQ/s0/superhero_032.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_04.mcpack"
+    },
+    {
+      "id": 33,
+      "name_category": "Nature",
+      "title": "Superhero_033",
+      "image": "file:///android_asset/view/superhero_033.png",
+      "skin": "https://1.bp.blogspot.com/--qVshssq5uM/YV1lfqMfuTI/AAAAAAAAAgc/Nmb0eBCyOPAwnGEUc2wHv7FsBS1in_AIwCLcBGAsYHQ/s0/superhero_033.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_04.mcpack"
+    },
+    {
+      "id": 34,
+      "name_category": "Nature",
+      "title": "Superhero_034",
+      "image": "file:///android_asset/view/superhero_034.png",
+      "skin": "https://1.bp.blogspot.com/-1JHmhtuBDxM/YV1lf3h5T1I/AAAAAAAAAgk/RUkKPFnyv-wAPeGf25-VzDlgOsmNGEPkgCLcBGAsYHQ/s0/superhero_034.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_04.mcpack"
+    },
+    {
+      "id": 35,
+      "name_category": "Nature",
+      "title": "Superhero_035",
+      "image": "file:///android_asset/view/superhero_035.png",
+      "skin": "https://1.bp.blogspot.com/-KoEr5fwDMec/YV1lga_ReII/AAAAAAAAAgo/UchoxEDl86AW5A54pKt6m8ve09PEHzVbACLcBGAsYHQ/s0/superhero_035.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_04.mcpack"
+    },
+    {
+      "id": 36,
+      "name_category": "Nature",
+      "title": "Superhero_036",
+      "image": "file:///android_asset/view/superhero_036.png",
+      "skin": "https://1.bp.blogspot.com/-4cXg1FmvPeQ/YV1lgg0YpDI/AAAAAAAAAgs/T0-t1GMD32oqquqYERNxWwHAqoZ4eJxRQCLcBGAsYHQ/s0/superhero_036.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_04.mcpack"
+    },
+    {
+      "id": 37,
+      "name_category": "Nature",
+      "title": "Superhero_037",
+      "image": "file:///android_asset/view/superhero_037.png",
+      "skin": "https://1.bp.blogspot.com/-5vzT2vl6bOg/YV1lg9TQsFI/AAAAAAAAAgw/SE1CfO02VC8py1ZcO_M57zxTFyZkcfdngCLcBGAsYHQ/s0/superhero_037.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_04.mcpack"
+    },
+    {
+      "id": 38,
+      "name_category": "Nature",
+      "title": "Superhero_038",
+      "image": "file:///android_asset/view/superhero_038.png",
+      "skin": "https://1.bp.blogspot.com/-GDdI_Tlx73M/YV1lhGvjlGI/AAAAAAAAAg0/FYkqdZ2X99swafaxr4a_FygVKgCGEHgzQCLcBGAsYHQ/s0/superhero_038.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_04.mcpack"
+    },
+    {
+      "id": 39,
+      "name_category": "Nature",
+      "title": "Superhero_039",
+      "image": "file:///android_asset/view/superhero_039.png",
+      "skin": "https://1.bp.blogspot.com/-gnptjchqUVU/YV1lhjiUjfI/AAAAAAAAAg4/ql6_gq-6TsI1vIP-K0puL9jJWhtdfEStgCLcBGAsYHQ/s0/superhero_039.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_04.mcpack"
+    },
+    {
+      "id": 40,
+      "name_category": "Nature",
+      "title": "Superhero_040",
+      "image": "file:///android_asset/view/superhero_040.png",
+      "skin": "https://1.bp.blogspot.com/-3y6htg8U6W0/YV1lhxBeRhI/AAAAAAAAAg8/5alhUG_rL-EBjwQLOQnbcwZ0yOxmM5_XwCLcBGAsYHQ/s0/superhero_040.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_04.mcpack"
+    },
+    {
+      "id": 41,
+      "name_category": "Nature",
+      "title": "Superhero_041",
+      "image": "file:///android_asset/view/superhero_041.png",
+      "skin": "https://1.bp.blogspot.com/-qj-hil9B-_U/YV1liLqRgrI/AAAAAAAAAhA/47yzYVziD_A-wssicL9aboERp0sgXyyIQCLcBGAsYHQ/s0/superhero_041.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_05.mcpack"
+    },
+    {
+      "id": 42,
+      "name_category": "Nature",
+      "title": "Superhero_042",
+      "image": "file:///android_asset/view/superhero_042.png",
+      "skin": "https://1.bp.blogspot.com/-oqt0WH_X9HQ/YV1liQBIYQI/AAAAAAAAAhE/mfoomeR8KRck5tFuZCMthwr58UmbVhGvgCLcBGAsYHQ/s0/superhero_042.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_05.mcpack"
+    },
+    {
+      "id": 43,
+      "name_category": "Nature",
+      "title": "Superhero_043",
+      "image": "file:///android_asset/view/superhero_043.png",
+      "skin": "https://1.bp.blogspot.com/-ewsIVdyStyI/YV1limyC7qI/AAAAAAAAAhI/Kx6DtoaUSDIahvfd3ajkFu81sdJkgw3mACLcBGAsYHQ/s0/superhero_043.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_05.mcpack"
+    },
+    {
+      "id": 44,
+      "name_category": "Nature",
+      "title": "Superhero_044",
+      "image": "file:///android_asset/view/superhero_044.png",
+      "skin": "https://1.bp.blogspot.com/-LFRfLsDbK8Y/YV1lim3O2eI/AAAAAAAAAhM/hlxj69yNv2UPGMon5AzQaWxPT-mcrVp9QCLcBGAsYHQ/s0/superhero_044.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_05.mcpack"
+    },
+    {
+      "id": 45,
+      "name_category": "Nature",
+      "title": "Superhero_045",
+      "image": "file:///android_asset/view/superhero_045.png",
+      "skin": "https://1.bp.blogspot.com/-4PMHcwDx9ZU/YV1ljFfLNkI/AAAAAAAAAhQ/W1Vydd70eK8SJ_70d4qW_w_SCjiPTjyjgCLcBGAsYHQ/s0/superhero_045.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_05.mcpack"
+    },
+    {
+      "id": 46,
+      "name_category": "Nature",
+      "title": "Superhero_046",
+      "image": "file:///android_asset/view/superhero_046.png",
+      "skin": "https://1.bp.blogspot.com/-1jt2qgZD_UE/YV1ljuSQ8AI/AAAAAAAAAhU/rDZTG7f-RhguNI411qeMOAJaKMdzGagJACLcBGAsYHQ/s0/superhero_046.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_05.mcpack"
+    },
+    {
+      "id": 47,
+      "name_category": "Nature",
+      "title": "Superhero_047",
+      "image": "file:///android_asset/view/superhero_047.png",
+      "skin": "https://1.bp.blogspot.com/-BomiUHPgxPc/YV1lj_3tmoI/AAAAAAAAAhY/3sH0jgEef9QxFaMydnvlcBKkYYSWpqp1ACLcBGAsYHQ/s0/superhero_047.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_05.mcpack"
+    },
+    {
+      "id": 48,
+      "name_category": "Nature",
+      "title": "Superhero_048",
+      "image": "file:///android_asset/view/superhero_048.png",
+      "skin": "https://1.bp.blogspot.com/-M-ULrLyGe-M/YV1lkGdYWjI/AAAAAAAAAhc/iL_jwPIypU4kTugitGMm1w_6UQsjKvS1ACLcBGAsYHQ/s0/superhero_048.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_05.mcpack"
+    },
+    {
+      "id": 49,
+      "name_category": "Nature",
+      "title": "Superhero_049",
+      "image": "file:///android_asset/view/superhero_049.png",
+      "skin": "https://1.bp.blogspot.com/-4TTZHKPY87g/YV1lkkEnvGI/AAAAAAAAAhg/go_cedIcvEYT4Y5_z5rN3vA7Zu97bCXgwCLcBGAsYHQ/s0/superhero_049.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_05.mcpack"
+    },
+    {
+      "id": 50,
+      "name_category": "Nature",
+      "title": "Superhero_050",
+      "image": "file:///android_asset/view/superhero_050.png",
+      "skin": "https://1.bp.blogspot.com/-G6UeaCvp_0I/YV1lkoGYxCI/AAAAAAAAAhk/YnGHBTliCc8kMXIWR79IWY1GM3MCCLpxACLcBGAsYHQ/s0/superhero_050.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_05.mcpack"
+    },
+    {
+      "id": 51,
+      "name_category": "Nature",
+      "title": "Superhero_051",
+      "image": "file:///android_asset/view/superhero_051.png",
+      "skin": "https://1.bp.blogspot.com/-mwc_gPiIFSI/YV1mGHWiXCI/AAAAAAAAAiE/a5uHhegL_KAb0h7jyHWYvvGqu9NP4p8rwCLcBGAsYHQ/s0/superhero_051.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_06.mcpack"
+    },
+    {
+      "id": 52,
+      "name_category": "Nature",
+      "title": "Superhero_052",
+      "image": "file:///android_asset/view/superhero_052.png",
+      "skin": "https://1.bp.blogspot.com/-CYG0u8ELaU0/YV1mGFAUzwI/AAAAAAAAAiI/zy3qWQHnwmA9H4r1A0diagvlaJrS1GOQACLcBGAsYHQ/s0/superhero_052.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_06.mcpack"
+    },
+    {
+      "id": 53,
+      "name_category": "Nature",
+      "title": "Superhero_053",
+      "image": "file:///android_asset/view/superhero_053.png",
+      "skin": "https://1.bp.blogspot.com/-I8zKfwXWvpc/YV1mGJToPqI/AAAAAAAAAiM/n88r61tFA7UMG-7ZvTy0ffRqJlUdQPrMQCLcBGAsYHQ/s0/superhero_053.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_06.mcpack"
+    },
+    {
+      "id": 54,
+      "name_category": "Nature",
+      "title": "Superhero_054",
+      "image": "file:///android_asset/view/superhero_054.png",
+      "skin": "https://1.bp.blogspot.com/-9Sp7yDCpKag/YV1mHYaYH1I/AAAAAAAAAiQ/DSFmh_pP8D8tbEHSRK0jef0SgQtMXG2pwCLcBGAsYHQ/s0/superhero_054.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_06.mcpack"
+    },
+    {
+      "id": 55,
+      "name_category": "Nature",
+      "title": "Superhero_055",
+      "image": "file:///android_asset/view/superhero_055.png",
+      "skin": "https://1.bp.blogspot.com/-ubNMriNgTT8/YV1mH7McIXI/AAAAAAAAAiU/b5Jfsx8Xccg5ATM8ZtP6mXwElPtzPDeRQCLcBGAsYHQ/s0/superhero_055.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_06.mcpack"
+    },
+    {
+      "id": 56,
+      "name_category": "Nature",
+      "title": "Superhero_056",
+      "image": "file:///android_asset/view/superhero_056.png",
+      "skin": "https://1.bp.blogspot.com/-PErdkTyywR4/YV1mHyPqkxI/AAAAAAAAAiY/m2f6VWHVfiEE1JuzS9JwFGpZxkP6HsvDwCLcBGAsYHQ/s0/superhero_056.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_06.mcpack"
+    },
+    {
+      "id": 57,
+      "name_category": "Nature",
+      "title": "Superhero_057",
+      "image": "file:///android_asset/view/superhero_057.png",
+      "skin": "https://1.bp.blogspot.com/-YCTvnEajrIQ/YV1mIBEyMmI/AAAAAAAAAic/u08trLdvv5onDdO_clO6S_3iwRUxOcnewCLcBGAsYHQ/s0/superhero_057.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_06.mcpack"
+    },
+    {
+      "id": 58,
+      "name_category": "Nature",
+      "title": "Superhero_058",
+      "image": "file:///android_asset/view/superhero_058.png",
+      "skin": "https://1.bp.blogspot.com/-AAaDRLZiFqQ/YV1mIyf8hyI/AAAAAAAAAig/omJrKb_qt9sxltzs0ves3TrAEv6o0gY1gCLcBGAsYHQ/s0/superhero_058.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_06.mcpack"
+    },
+    {
+      "id": 59,
+      "name_category": "Nature",
+      "title": "Superhero_059",
+      "image": "file:///android_asset/view/superhero_059.png",
+      "skin": "https://1.bp.blogspot.com/-glHY1POjYII/YV1mJNFHkVI/AAAAAAAAAik/3hfNKWwcvBwGXoCQcslLQ-YvI4XNIzmcwCLcBGAsYHQ/s0/superhero_059.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_06.mcpack"
+    },
+    {
+      "id": 60,
+      "name_category": "Nature",
+      "title": "Superhero_060",
+      "image": "file:///android_asset/view/superhero_060.png",
+      "skin": "https://1.bp.blogspot.com/-lfTeld6ocYo/YV1mJGapK7I/AAAAAAAAAio/Hwv2ArB40LwQ1lG8DzQTeNjsT5hPz-R2wCLcBGAsYHQ/s0/superhero_060.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_06.mcpack"
+    },
+    {
+      "id": 61,
+      "name_category": "Nature",
+      "title": "Superhero_061",
+      "image": "file:///android_asset/view/superhero_061.png",
+      "skin": "https://1.bp.blogspot.com/-iLvexbbueR0/YV1mJpsT3zI/AAAAAAAAAis/jAvaN5LszJgZGAvVXr4FtzcVitHoUYApwCLcBGAsYHQ/s0/superhero_061.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_07.mcpack"
+    },
+    {
+      "id": 62,
+      "name_category": "Nature",
+      "title": "Superhero_062",
+      "image": "file:///android_asset/view/superhero_062.png",
+      "skin": "https://1.bp.blogspot.com/-grj5o_86JQI/YV1mJ99VKCI/AAAAAAAAAiw/pQ05Eff2l5YeMaTEEoZf6ACZxLvk8w4KwCLcBGAsYHQ/s0/superhero_062.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_07.mcpack"
+    },
+    {
+      "id": 63,
+      "name_category": "Nature",
+      "title": "Superhero_063",
+      "image": "file:///android_asset/view/superhero_063.png",
+      "skin": "https://1.bp.blogspot.com/-5KzvZXjL-xQ/YV1mKEusaFI/AAAAAAAAAi0/hTC6ZPWbI30e8LdCe7lA6ZkisKVWVFzfwCLcBGAsYHQ/s0/superhero_063.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_07.mcpack"
+    },
+    {
+      "id": 64,
+      "name_category": "Nature",
+      "title": "Superhero_064",
+      "image": "file:///android_asset/view/superhero_064.png",
+      "skin": "https://1.bp.blogspot.com/-1jkZuxv6n3A/YV1mKYH4c6I/AAAAAAAAAi4/jF9dgap81pw0zIWWvsul_TPuYC4UumM9QCLcBGAsYHQ/s0/superhero_064.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_07.mcpack"
+    },
+    {
+      "id": 65,
+      "name_category": "Nature",
+      "title": "Superhero_065",
+      "image": "file:///android_asset/view/superhero_065.png",
+      "skin": "https://1.bp.blogspot.com/-CHQ6Viz6qJ4/YV1mKminpUI/AAAAAAAAAi8/X28srKpTuyIsGUihTrBI9DEFbAKCOUAmQCLcBGAsYHQ/s0/superhero_065.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_07.mcpack"
+    },
+    {
+      "id": 66,
+      "name_category": "Nature",
+      "title": "Superhero_066",
+      "image": "file:///android_asset/view/superhero_066.png",
+      "skin": "https://1.bp.blogspot.com/-Qx-DV-c5Py0/YV1mK8NNyxI/AAAAAAAAAjA/NcUqh7DvyHIZeoZVRN3DCbC_sYbQUF4PgCLcBGAsYHQ/s0/superhero_066.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_07.mcpack"
+    },
+    {
+      "id": 67,
+      "name_category": "Nature",
+      "title": "Superhero_067",
+      "image": "file:///android_asset/view/superhero_067.png",
+      "skin": "https://1.bp.blogspot.com/-jTi0hwLLCW4/YV1mLVKaC0I/AAAAAAAAAjI/cX1Sv-w0OJkCIRacN8JEaaGTPCpMSi-NACLcBGAsYHQ/s0/superhero_067.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_07.mcpack"
+    },
+    {
+      "id": 68,
+      "name_category": "Nature",
+      "title": "Superhero_068",
+      "image": "file:///android_asset/view/superhero_068.png",
+      "skin": "https://1.bp.blogspot.com/-Ft1F6e9hb78/YV1mLWRYOQI/AAAAAAAAAjE/qpcTAamJ-dwXfA1EdJ1hgowD_PYwqwefgCLcBGAsYHQ/s0/superhero_068.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_07.mcpack"
+    },
+    {
+      "id": 69,
+      "name_category": "Nature",
+      "title": "Superhero_069",
+      "image": "file:///android_asset/view/superhero_069.png",
+      "skin": "https://1.bp.blogspot.com/-eLCaIkqSUl4/YV1mLqmAdCI/AAAAAAAAAjM/3yP0dWUGl8AnF00-MHhHdmBH6xLUnwk5wCLcBGAsYHQ/s0/superhero_069.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_07.mcpack"
+    },
+    {
+      "id": 70,
+      "name_category": "Nature",
+      "title": "Superhero_070",
+      "image": "file:///android_asset/view/superhero_070.png",
+      "skin": "https://1.bp.blogspot.com/-XVPOMnYCVfc/YV1mMChVyFI/AAAAAAAAAjQ/7QIM-CzpY1gAmt7EtuOxh2_EuKVt1Rf9wCLcBGAsYHQ/s0/superhero_070.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_07.mcpack"
+    },
+    {
+      "id": 71,
+      "name_category": "Nature",
+      "title": "Superhero_071",
+      "image": "file:///android_asset/view/superhero_071.png",
+      "skin": "https://1.bp.blogspot.com/-HM4ZkXCNVaU/YV1mMgcpUwI/AAAAAAAAAjU/t3CNYbLTORoY_oN6g07TBu8ihpA02uWegCLcBGAsYHQ/s0/superhero_071.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_08.mcpack"
+    },
+    {
+      "id": 72,
+      "name_category": "Nature",
+      "title": "Superhero_072",
+      "image": "file:///android_asset/view/superhero_072.png",
+      "skin": "https://1.bp.blogspot.com/-kqtQS6QTJmo/YV1mM2CwMmI/AAAAAAAAAjY/5sSLe4YCLCMooMFzlBVWz_Gf2Y7sGByeACLcBGAsYHQ/s0/superhero_072.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_08.mcpack"
+    },
+    {
+      "id": 73,
+      "name_category": "Nature",
+      "title": "Superhero_073",
+      "image": "file:///android_asset/view/superhero_073.png",
+      "skin": "https://1.bp.blogspot.com/-val5_hKUDCo/YV1mNIxP9UI/AAAAAAAAAjc/rUobNvhEZ0UjsHV_US5t_VBzwmKPmC7gwCLcBGAsYHQ/s0/superhero_073.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_08.mcpack"
+    },
+    {
+      "id": 74,
+      "name_category": "Nature",
+      "title": "Superhero_074",
+      "image": "file:///android_asset/view/superhero_074.png",
+      "skin": "https://1.bp.blogspot.com/-HrT_VonMTwE/YV1mNW_xoCI/AAAAAAAAAjg/6Jlc8AK38K801KZSPvE_Pm52gDUsN0TDgCLcBGAsYHQ/s0/superhero_074.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_08.mcpack"
+    },
+    {
+      "id": 75,
+      "name_category": "Nature",
+      "title": "Superhero_075",
+      "image": "file:///android_asset/view/superhero_075.png",
+      "skin": "https://1.bp.blogspot.com/-6paSBtKhQyM/YV1mNewnNbI/AAAAAAAAAjk/0TaG6EnmE_4Uyf0mBFh7htyU29K9VO1fACLcBGAsYHQ/s0/superhero_075.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_08.mcpack"
+    },
+    {
+      "id": 76,
+      "name_category": "Nature",
+      "title": "Superhero_076",
+      "image": "file:///android_asset/view/superhero_076.png",
+      "skin": "https://1.bp.blogspot.com/-axAumLP0UCM/YV1mNl3vpoI/AAAAAAAAAjo/mmKbpZk7UhMAAK-FI1dWvWBNQjl7H3y1ACLcBGAsYHQ/s0/superhero_076.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_08.mcpack"
+    },
+    {
+      "id": 77,
+      "name_category": "Nature",
+      "title": "Superhero_077",
+      "image": "file:///android_asset/view/superhero_077.png",
+      "skin": "https://1.bp.blogspot.com/-5ofKCv_EZfU/YV1mOVdiyDI/AAAAAAAAAjs/tcXPayBsVOAydArmL2Rv-_3gyFpXyv-YwCLcBGAsYHQ/s0/superhero_077.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_08.mcpack"
+    },
+    {
+      "id": 78,
+      "name_category": "Nature",
+      "title": "Superhero_078",
+      "image": "file:///android_asset/view/superhero_078.png",
+      "skin": "https://1.bp.blogspot.com/-XpdwvoJMLJ8/YV1mO5319TI/AAAAAAAAAjw/WMwa_PUivRQ1n9JeaW3TXYrJxwJY6gn1QCLcBGAsYHQ/s0/superhero_078.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_08.mcpack"
+    },
+    {
+      "id": 79,
+      "name_category": "Nature",
+      "title": "Superhero_079",
+      "image": "file:///android_asset/view/superhero_079.png",
+      "skin": "https://1.bp.blogspot.com/-_hkqh4oUc48/YV1mO6sGA5I/AAAAAAAAAj0/Hmnd3FeuMGAHrNIvuwbQgTFidXtzEQwGgCLcBGAsYHQ/s0/superhero_079.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_08.mcpack"
+    },
+    {
+      "id": 80,
+      "name_category": "Nature",
+      "title": "Superhero_080",
+      "image": "file:///android_asset/view/superhero_080.png",
+      "skin": "https://1.bp.blogspot.com/-KvaRrqCOF3k/YV1mPFMhelI/AAAAAAAAAj4/EZbbWewWiwocDOnJ8Kl5Mpuu65O2b5q0wCLcBGAsYHQ/s0/superhero_080.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_08.mcpack"
+    },
+    {
+      "id": 81,
+      "name_category": "Nature",
+      "title": "Superhero_081",
+      "image": "file:///android_asset/view/superhero_081.png",
+      "skin": "https://1.bp.blogspot.com/-GEVbF-DYJvY/YV1mP3HX9-I/AAAAAAAAAj8/MI6swwSGkh8dGsCghyoL2-rhn9LEE-ngwCLcBGAsYHQ/s0/superhero_081.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_09.mcpack"
+    },
+    {
+      "id": 82,
+      "name_category": "Nature",
+      "title": "Superhero_082",
+      "image": "file:///android_asset/view/superhero_082.png",
+      "skin": "https://1.bp.blogspot.com/-_e_71LRfrrU/YV1mQDfF6wI/AAAAAAAAAkA/tZYOJgIjBbkVnFiqfqIpocBZ8Rx5pOgAACLcBGAsYHQ/s0/superhero_082.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_09.mcpack"
+    },
+    {
+      "id": 83,
+      "name_category": "Nature",
+      "title": "Superhero_083",
+      "image": "file:///android_asset/view/superhero_083.png",
+      "skin": "https://1.bp.blogspot.com/-hQxb3-qvgPk/YV1mQdvMpgI/AAAAAAAAAkE/dv3garyb6QkRttvf5OiF5by2uGZmap5bgCLcBGAsYHQ/s0/superhero_083.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_09.mcpack"
+    },
+    {
+      "id": 84,
+      "name_category": "Nature",
+      "title": "Superhero_084",
+      "image": "file:///android_asset/view/superhero_084.png",
+      "skin": "https://1.bp.blogspot.com/-mmkf7pvseoI/YV1mQpHueVI/AAAAAAAAAkI/CNB_BzuqI7QM6UyUH5D_QSSZgL37_stlACLcBGAsYHQ/s0/superhero_084.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_09.mcpack"
+    },
+    {
+      "id": 85,
+      "name_category": "Nature",
+      "title": "Superhero_085",
+      "image": "file:///android_asset/view/superhero_085.png",
+      "skin": "https://1.bp.blogspot.com/-IrWmGLPMm-k/YV1mQ-87LBI/AAAAAAAAAkM/ESBcLrPHSt4ZbF1KYHmFNkZEwSUi67UZACLcBGAsYHQ/s0/superhero_085.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_09.mcpack"
+    },
+    {
+      "id": 86,
+      "name_category": "Nature",
+      "title": "Superhero_086",
+      "image": "file:///android_asset/view/superhero_086.png",
+      "skin": "https://1.bp.blogspot.com/-jn18FTzVlbI/YV1mRCBP11I/AAAAAAAAAkQ/fmujlnIEwtozZOZcQrinCknBJlxWY_e5QCLcBGAsYHQ/s0/superhero_086.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_09.mcpack"
+    },
+    {
+      "id": 87,
+      "name_category": "Nature",
+      "title": "Superhero_087",
+      "image": "file:///android_asset/view/superhero_087.png",
+      "skin": "https://1.bp.blogspot.com/-63svzP8GKZ0/YV1mRXE5pRI/AAAAAAAAAkU/fadPnqeT9_s6dmaKyjFP0am3XiBmyQ3KgCLcBGAsYHQ/s0/superhero_087.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_09.mcpack"
+    },
+    {
+      "id": 88,
+      "name_category": "Nature",
+      "title": "Superhero_088",
+      "image": "file:///android_asset/view/superhero_088.png",
+      "skin": "https://1.bp.blogspot.com/-Rar7wYbV_s0/YV1mR0-PRNI/AAAAAAAAAkY/ugUb1KBVNV8cFA2E7h6En3zCeFa7P6kkgCLcBGAsYHQ/s0/superhero_088.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_09.mcpack"
+    },
+    {
+      "id": 89,
+      "name_category": "Nature",
+      "title": "Superhero_089",
+      "image": "file:///android_asset/view/superhero_089.png",
+      "skin": "https://1.bp.blogspot.com/-JyinGprQNu8/YV1mR0QO9KI/AAAAAAAAAkc/gn1rAHzDFqEqcDhOCB_vWwMSSKUn-7-CwCLcBGAsYHQ/s0/superhero_089.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_09.mcpack"
+    },
+    {
+      "id": 90,
+      "name_category": "Nature",
+      "title": "Superhero_090",
+      "image": "file:///android_asset/view/superhero_090.png",
+      "skin": "https://1.bp.blogspot.com/-vgKq60j8GrA/YV1mSCT0W6I/AAAAAAAAAkg/CvuZDnkMjpsJd7plSeRpIBD8AbPzUt_ZgCLcBGAsYHQ/s0/superhero_090.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_09.mcpack"
+    },
+    {
+      "id": 91,
+      "name_category": "Nature",
+      "title": "Superhero_091",
+      "image": "file:///android_asset/view/superhero_091.png",
+      "skin": "https://1.bp.blogspot.com/-9LAKFSQFkeI/YV1mS9b2d9I/AAAAAAAAAkk/LNlrb7PzBU4R6FDj3qc-L0T5jm61b5q0gCLcBGAsYHQ/s0/superhero_091.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_10.mcpack"
+    },
+    {
+      "id": 92,
+      "name_category": "Nature",
+      "title": "Superhero_092",
+      "image": "file:///android_asset/view/superhero_092.png",
+      "skin": "https://1.bp.blogspot.com/-aV7Led4CikE/YV1mTFmhTXI/AAAAAAAAAko/J9_ULC7lGNYbQebjlGEZuw6qVRzoB2y4QCLcBGAsYHQ/s0/superhero_092.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_10.mcpack"
+    },
+    {
+      "id": 93,
+      "name_category": "Nature",
+      "title": "Superhero_093",
+      "image": "file:///android_asset/view/superhero_093.png",
+      "skin": "https://1.bp.blogspot.com/-lOs13PECfhY/YV1mTdd6b5I/AAAAAAAAAks/zcbGuocaj0UUFiMI_8T674LTaRawNaa7QCLcBGAsYHQ/s0/superhero_093.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_10.mcpack"
+    },
+    {
+      "id": 94,
+      "name_category": "Nature",
+      "title": "Superhero_094",
+      "image": "file:///android_asset/view/superhero_094.png",
+      "skin": "https://1.bp.blogspot.com/-TEuYi2v5eQY/YV1mTl-JQjI/AAAAAAAAAkw/fBqww1I7xjstoog-IMwhIDW7erjwKwgkwCLcBGAsYHQ/s0/superhero_094.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_10.mcpack"
+    },
+    {
+      "id": 95,
+      "name_category": "Nature",
+      "title": "Superhero_095",
+      "image": "file:///android_asset/view/superhero_095.png",
+      "skin": "https://1.bp.blogspot.com/-h-NjOV7y1w8/YV1mT3wSrVI/AAAAAAAAAk0/bHY8qT3uP_kYX43JrI2u6GnEljAARCZXwCLcBGAsYHQ/s0/superhero_095.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_10.mcpack"
+    },
+    {
+      "id": 96,
+      "name_category": "Nature",
+      "title": "Superhero_096",
+      "image": "file:///android_asset/view/superhero_096.png",
+      "skin": "https://1.bp.blogspot.com/-riRapFzwEvU/YV1mUFuzCRI/AAAAAAAAAk4/QSWHSGJXTcw3Fxy4H3sTDHsVjscq-qeUgCLcBGAsYHQ/s0/superhero_096.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_10.mcpack"
+    },
+    {
+      "id": 97,
+      "name_category": "Nature",
+      "title": "Superhero_097",
+      "image": "file:///android_asset/view/superhero_097.png",
+      "skin": "https://1.bp.blogspot.com/-eHpMazH9Tmw/YV1mUao7zGI/AAAAAAAAAk8/iJIIuTD4kbERmrQc2zR6jKDEiBzcuB7EQCLcBGAsYHQ/s0/superhero_097.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_10.mcpack"
+    },
+    {
+      "id": 98,
+      "name_category": "Nature",
+      "title": "Superhero_098",
+      "image": "file:///android_asset/view/superhero_098.png",
+      "skin": "https://1.bp.blogspot.com/-urzfDRWs6YY/YV1mUnsctCI/AAAAAAAAAlA/rGL3qSR6G7wvLyQo-MLVitDu24am02fUgCLcBGAsYHQ/s0/superhero_098.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_10.mcpack"
+    },
+    {
+      "id": 99,
+      "name_category": "Nature",
+      "title": "Superhero_099",
+      "image": "file:///android_asset/view/superhero_099.png",
+      "skin": "https://1.bp.blogspot.com/-bQd9ufhs5hc/YV1mU53wv1I/AAAAAAAAAlE/X6gUX55jYNMD4HGT6WZW7P6-vfNMYOXNwCLcBGAsYHQ/s0/superhero_099.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_10.mcpack"
+    },
+    {
+      "id": 100,
+      "name_category": "Nature",
+      "title": "Superhero_100",
+      "image": "file:///android_asset/view/superhero_100.png",
+      "skin": "https://1.bp.blogspot.com/-0zJCXbFg0SI/YV1mVT5rT4I/AAAAAAAAAlI/MzO_QqzhpOIX8CcC9fn9lBcrXZa-imsWACLcBGAsYHQ/s0/superhero_100.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_10.mcpack"
+    },
+    {
+      "id": 101,
+      "name_category": "Nature",
+      "title": "Superhero_101",
+      "image": "file:///android_asset/view/superhero_101.png",
+      "skin": "https://1.bp.blogspot.com/-Iks9z-Xrqq0/YV1mVngKtII/AAAAAAAAAlM/HiYI4r1l63kmGqx7KRRV7gWJHGocAPMrwCLcBGAsYHQ/s0/superhero_101.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_11.mcpack"
+    },
+    {
+      "id": 102,
+      "name_category": "Nature",
+      "title": "Superhero_102",
+      "image": "file:///android_asset/view/superhero_102.png",
+      "skin": "https://1.bp.blogspot.com/-iNqEdE4hdxw/YV1mVqSPQII/AAAAAAAAAlQ/ZBalPOY0HGo8HxZZia4us5Ukh3uuHlfawCLcBGAsYHQ/s0/superhero_102.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_11.mcpack"
+    },
+    {
+      "id": 103,
+      "name_category": "Nature",
+      "title": "Superhero_103",
+      "image": "file:///android_asset/view/superhero_103.png",
+      "skin": "https://1.bp.blogspot.com/--DsL6DSzlp4/YV1mWNThTCI/AAAAAAAAAlU/UJsyJAP487IwR3h_lVMIIhslFDgy0k1OQCLcBGAsYHQ/s0/superhero_103.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_11.mcpack"
+    },
+    {
+      "id": 104,
+      "name_category": "Nature",
+      "title": "Superhero_104",
+      "image": "file:///android_asset/view/superhero_104.png",
+      "skin": "https://1.bp.blogspot.com/-wTPuAUBJ5q4/YV1mWMRaiuI/AAAAAAAAAlY/czCkQqlLzfQ66snkmCDn5sbhcPociVzNwCLcBGAsYHQ/s0/superhero_104.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_11.mcpack"
+    },
+    {
+      "id": 105,
+      "name_category": "Nature",
+      "title": "Superhero_105",
+      "image": "file:///android_asset/view/superhero_105.png",
+      "skin": "https://1.bp.blogspot.com/-rjoJ4NR4gk8/YV1mWZ-puXI/AAAAAAAAAlc/ty5cYlilbHAjc9W5G69MIUMjmEAEqeHrACLcBGAsYHQ/s0/superhero_105.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_11.mcpack"
+    },
+    {
+      "id": 106,
+      "name_category": "Nature",
+      "title": "Superhero_106",
+      "image": "file:///android_asset/view/superhero_106.png",
+      "skin": "https://1.bp.blogspot.com/-DspfWi2DqL8/YV1mXOzFwOI/AAAAAAAAAlg/d6UrTL2Ty0wHAfzhWnj8w_7BT1QhF3xxgCLcBGAsYHQ/s0/superhero_106.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_11.mcpack"
+    },
+    {
+      "id": 107,
+      "name_category": "Nature",
+      "title": "Superhero_107",
+      "image": "file:///android_asset/view/superhero_107.png",
+      "skin": "https://1.bp.blogspot.com/-ZUawNC1_Jrw/YV1mXbOhSSI/AAAAAAAAAlo/Pb7XeIc0u98jnv-ZG-Vzcv-5ICmMjYZSwCLcBGAsYHQ/s0/superhero_107.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_11.mcpack"
+    },
+    {
+      "id": 108,
+      "name_category": "Nature",
+      "title": "Superhero_108",
+      "image": "file:///android_asset/view/superhero_108.png",
+      "skin": "https://1.bp.blogspot.com/-OKDMj28bSQ0/YV1mXfDm_yI/AAAAAAAAAlk/XdL27JRLA_8LFl0ajBhrSxBvuMw0Yd1iwCLcBGAsYHQ/s0/superhero_108.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_11.mcpack"
+    },
+    {
+      "id": 109,
+      "name_category": "Nature",
+      "title": "Superhero_109",
+      "image": "file:///android_asset/view/superhero_109.png",
+      "skin": "https://1.bp.blogspot.com/-9-B5p5q2l1c/YV1mYA_cK5I/AAAAAAAAAls/RhPJd7Q997kUy61KWBMBLmpVmZzGIKOvACLcBGAsYHQ/s0/superhero_109.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_11.mcpack"
+    },
+    {
+      "id": 110,
+      "name_category": "Nature",
+      "title": "Superhero_110",
+      "image": "file:///android_asset/view/superhero_110.png",
+      "skin": "https://1.bp.blogspot.com/-Xa-Erp1VV50/YV1mYYZhouI/AAAAAAAAAlw/ocXEgfldf10sXs4TDuCxRQmCwlyhrifuACLcBGAsYHQ/s0/superhero_110.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_11.mcpack"
+    },
+    {
+      "id": 111,
+      "name_category": "Nature",
+      "title": "Superhero_111",
+      "image": "file:///android_asset/view/superhero_111.png",
+      "skin": "https://1.bp.blogspot.com/-lIZQA4Kyt_0/YV1mYig8YKI/AAAAAAAAAl0/jvt4cXeeUNYvbM4jHkgKX-0P8IeqMRvHACLcBGAsYHQ/s0/superhero_111.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_12.mcpack"
+    },
+    {
+      "id": 112,
+      "name_category": "Nature",
+      "title": "Superhero_112",
+      "image": "file:///android_asset/view/superhero_112.png",
+      "skin": "https://1.bp.blogspot.com/-LuIoAdW9pYY/YV1mYp40jjI/AAAAAAAAAl4/KdryDgNoHgcXWhsaTZBQNnmbW6k9BxamACLcBGAsYHQ/s0/superhero_112.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_11.mcpack"
+    },
+    {
+      "id": 113,
+      "name_category": "Nature",
+      "title": "Superhero_113",
+      "image": "file:///android_asset/view/superhero_113.png",
+      "skin": "https://1.bp.blogspot.com/-8vlcmDgPVC0/YV1mZAgxxII/AAAAAAAAAl8/yjUJ1-H4C_QctXaJoZqZkBDB74dKp9KKQCLcBGAsYHQ/s0/superhero_113.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_11.mcpack"
+    },
+    {
+      "id": 114,
+      "name_category": "Nature",
+      "title": "Superhero_114",
+      "image": "file:///android_asset/view/superhero_114.png",
+      "skin": "https://1.bp.blogspot.com/-ALJEO2VK-q4/YV1mZoofnoI/AAAAAAAAAmE/f9J9C8FrwMs2CUkQd8QkjFhGhAcMAlsUACLcBGAsYHQ/s0/superhero_114.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_12.mcpack"
+    },
+    {
+      "id": 115,
+      "name_category": "Nature",
+      "title": "Superhero_115",
+      "image": "file:///android_asset/view/superhero_115.png",
+      "skin": "https://1.bp.blogspot.com/-54sCgw6ZGX4/YV1mZ2Gx7pI/AAAAAAAAAmI/3A5pdTSd0DENKZVZUAKq9gftbtnc931lQCLcBGAsYHQ/s0/superhero_115.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_12.mcpack"
+    },
+    {
+      "id": 116,
+      "name_category": "Nature",
+      "title": "Superhero_116",
+      "image": "file:///android_asset/view/superhero_116.png",
+      "skin": "https://1.bp.blogspot.com/-FsfGHn1sh_o/YV1maAExPRI/AAAAAAAAAmM/WYGLXr8FGZgQgnA_mQ9o9cFTtAvmxX8YgCLcBGAsYHQ/s0/superhero_116.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_12.mcpack"
+    },
+    {
+      "id": 117,
+      "name_category": "Nature",
+      "title": "Superhero_117",
+      "image": "file:///android_asset/view/superhero_117.png",
+      "skin": "https://1.bp.blogspot.com/-isTRlrzU5u4/YV1maRIO-5I/AAAAAAAAAmQ/5evSs1mqqDYlI8hhLqddn9zVZGkHSkyhQCLcBGAsYHQ/s0/superhero_117.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_12.mcpack"
+    },
+    {
+      "id": 118,
+      "name_category": "Nature",
+      "title": "Superhero_118",
+      "image": "file:///android_asset/view/superhero_118.png",
+      "skin": "https://1.bp.blogspot.com/-HKm74pmLKBA/YV1ma2tAsTI/AAAAAAAAAmU/xwZRQABLMjAmuLGGTEL98EBDc8kMDlQ2ACLcBGAsYHQ/s0/superhero_118.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_12.mcpack"
+    },
+    {
+      "id": 119,
+      "name_category": "Nature",
+      "title": "Superhero_119",
+      "image": "file:///android_asset/view/superhero_119.png",
+      "skin": "https://1.bp.blogspot.com/-P_7rHDTAnpM/YV1mbNJ164I/AAAAAAAAAmY/FUU-ztmr9JUbAmRn8k_y7LRbp71UdhD9ACLcBGAsYHQ/s0/superhero_119.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_12.mcpack"
+    },
+    {
+      "id": 120,
+      "name_category": "Nature",
+      "title": "Superhero_120",
+      "image": "file:///android_asset/view/superhero_120.png",
+      "skin": "https://1.bp.blogspot.com/-Qw6FkFQu3PA/YV1mbeSaNAI/AAAAAAAAAmc/2H6ht3RlIzEtQQGPDgQt4R5WNRV_IEXqgCLcBGAsYHQ/s0/superhero_120.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_12.mcpack"
+    },
+    {
+      "id": 121,
+      "name_category": "Nature",
+      "title": "Superhero_121",
+      "image": "file:///android_asset/view/superhero_121.png",
+      "skin": "https://1.bp.blogspot.com/-F3F4ZFAgrWo/YV1mb7snkqI/AAAAAAAAAmg/4au4Gjt9kzUfrRP2cp11yilYwNTHlUz0QCLcBGAsYHQ/s0/superhero_121.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_13.mcpack"
+    },
+    {
+      "id": 122,
+      "name_category": "Nature",
+      "title": "Superhero_122",
+      "image": "file:///android_asset/view/superhero_122.png",
+      "skin": "https://1.bp.blogspot.com/-VkK0Weaxgs0/YV1mcIBiA5I/AAAAAAAAAmk/r7W8vnpeXpMv7r2yDoGF_VhIJ2Xx5zSswCLcBGAsYHQ/s0/superhero_122.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_13.mcpack"
+    },
+    {
+      "id": 123,
+      "name_category": "Nature",
+      "title": "Superhero_123",
+      "image": "file:///android_asset/view/superhero_123.png",
+      "skin": "https://1.bp.blogspot.com/-_0Nt_13d5j8/YV1mcXdRHWI/AAAAAAAAAmo/g0Xu-_CKsQwynF-6zgG_a2yVsiHMpA8KACLcBGAsYHQ/s0/superhero_123.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_13.mcpack"
+    },
+    {
+      "id": 124,
+      "name_category": "Nature",
+      "title": "Superhero_124",
+      "image": "file:///android_asset/view/superhero_124.png",
+      "skin": "https://1.bp.blogspot.com/-NLxDcLrUj4M/YV1mchI2dXI/AAAAAAAAAms/njlmOUNQMgAUEWUIOVZtg5o1vTGF_3YkACLcBGAsYHQ/s0/superhero_124.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_13.mcpack"
+    },
+    {
+      "id": 125,
+      "name_category": "Nature",
+      "title": "Superhero_125",
+      "image": "file:///android_asset/view/superhero_125.png",
+      "skin": "https://1.bp.blogspot.com/-302VZCE55q8/YV1mdNd9jvI/AAAAAAAAAmw/iSywc1r6aj8hQH6xxgg5CXL9AsenIvkSgCLcBGAsYHQ/s0/superhero_125.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_13.mcpack"
+    },
+    {
+      "id": 126,
+      "name_category": "Nature",
+      "title": "Superhero_126",
+      "image": "file:///android_asset/view/superhero_126.png",
+      "skin": "https://1.bp.blogspot.com/-oc0u5K5im80/YV1mdTLkL5I/AAAAAAAAAm0/IcWzvgMraAY5rODewY4_ly7W3yptNNhqACLcBGAsYHQ/s0/superhero_126.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_13.mcpack"
+    },
+    {
+      "id": 127,
+      "name_category": "Nature",
+      "title": "Superhero_127",
+      "image": "file:///android_asset/view/superhero_127.png",
+      "skin": "https://1.bp.blogspot.com/-5ZZMa2HoBu4/YV1mdnfG4DI/AAAAAAAAAm4/SBhfSx72Ws8argFaotC-sAzs19AQ5hPmwCLcBGAsYHQ/s0/superhero_127.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_13.mcpack"
+    },
+    {
+      "id": 128,
+      "name_category": "Nature",
+      "title": "Superhero_128",
+      "image": "file:///android_asset/view/superhero_128.png",
+      "skin": "https://1.bp.blogspot.com/-1076L8q26f8/YV1meByLaAI/AAAAAAAAAm8/OkyRAlxTXK0LfuiZD_I_GmuQUA2PUHAQQCLcBGAsYHQ/s0/superhero_128.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_13.mcpack"
+    },
+    {
+      "id": 129,
+      "name_category": "Nature",
+      "title": "Superhero_129",
+      "image": "file:///android_asset/view/superhero_129.png",
+      "skin": "https://1.bp.blogspot.com/-mrO2E5-P-pE/YV1meWxFAmI/AAAAAAAAAnA/WvehjHFYS_4K_vV2TI5b4C9K4psQHfgYQCLcBGAsYHQ/s0/superhero_129.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_13.mcpack"
+    },
+    {
+      "id": 130,
+      "name_category": "Nature",
+      "title": "Superhero_130",
+      "image": "file:///android_asset/view/superhero_130.png",
+      "skin": "https://1.bp.blogspot.com/-ERjr3_sU2SM/YV1mejVa2_I/AAAAAAAAAnE/H7-MgBww7dUvpQsw2slhnJ4I8hcUk3XCgCLcBGAsYHQ/s0/superhero_130.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_13.mcpack"
+    },
+    {
+      "id": 131,
+      "name_category": "Nature",
+      "title": "Superhero_131",
+      "image": "file:///android_asset/view/superhero_131.png",
+      "skin": "https://1.bp.blogspot.com/-JZYJLOuDGKQ/YV1metpKZxI/AAAAAAAAAnI/UO6DJ6-3XYYf3FihD7_QWOtuZNpEo61vwCLcBGAsYHQ/s0/superhero_131.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_14.mcpack"
+    },
+    {
+      "id": 132,
+      "name_category": "Nature",
+      "title": "Superhero_132",
+      "image": "file:///android_asset/view/superhero_132.png",
+      "skin": "https://1.bp.blogspot.com/-Dy7qRnKF0r8/YV1mfK_SwsI/AAAAAAAAAnM/IZaiQGz7xiU0ixt2razx1-j3ZPyUk9nUgCLcBGAsYHQ/s0/superhero_132.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_14.mcpack"
+    },
+    {
+      "id": 133,
+      "name_category": "Nature",
+      "title": "Superhero_133",
+      "image": "file:///android_asset/view/superhero_133.png",
+      "skin": "https://1.bp.blogspot.com/-kWOnj1T8obo/YV1mffycD5I/AAAAAAAAAnQ/2ug3H-hDELEeeagVYnGbM0vF1--kMVg_QCLcBGAsYHQ/s0/superhero_133.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_14.mcpack"
+    },
+    {
+      "id": 134,
+      "name_category": "Nature",
+      "title": "Superhero_134",
+      "image": "file:///android_asset/view/superhero_134.png",
+      "skin": "https://1.bp.blogspot.com/-XZpuauW2WD8/YV1mfXnz8RI/AAAAAAAAAnU/KAiEMWd5rqQq8g4mwqnjGCXvqqQdmql_gCLcBGAsYHQ/s0/superhero_134.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_14.mcpack"
+    },
+    {
+      "id": 135,
+      "name_category": "Nature",
+      "title": "Superhero_135",
+      "image": "file:///android_asset/view/superhero_135.png",
+      "skin": "https://1.bp.blogspot.com/-5Po152zxFF8/YV1mf_Xvw-I/AAAAAAAAAnY/FvllgvgyrBQe_7-c6t2Y4FEElhhbJQougCLcBGAsYHQ/s0/superhero_135.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_14.mcpack"
+    },
+    {
+      "id": 136,
+      "name_category": "Nature",
+      "title": "Superhero_136",
+      "image": "file:///android_asset/view/superhero_136.png",
+      "skin": "https://1.bp.blogspot.com/-XFaJy1dZHmA/YV1mgJKLGTI/AAAAAAAAAnc/X-d9u6kEJzEjlGPJ_19f_5ZvM3mt2NEpwCLcBGAsYHQ/s0/superhero_136.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_14.mcpack"
+    },
+    {
+      "id": 137,
+      "name_category": "Nature",
+      "title": "Superhero_137",
+      "image": "file:///android_asset/view/superhero_137.png",
+      "skin": "https://1.bp.blogspot.com/-Q3yTztgT9f8/YV1mgacT67I/AAAAAAAAAng/gArkZkahg0Ejz-AOZAXz81vA12gLVhOOwCLcBGAsYHQ/s0/superhero_137.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_14.mcpack"
+    },
+    {
+      "id": 138,
+      "name_category": "Nature",
+      "title": "Superhero_138",
+      "image": "file:///android_asset/view/superhero_138.png",
+      "skin": "https://1.bp.blogspot.com/-mAb_Xf_RX_E/YV1mgl-R4jI/AAAAAAAAAnk/RKOUYmNA8nQBM4ty3FAP-EsXxlGPSVj4gCLcBGAsYHQ/s0/superhero_138.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_14.mcpack"
+    },
+    {
+      "id": 139,
+      "name_category": "Nature",
+      "title": "Superhero_139",
+      "image": "file:///android_asset/view/superhero_139.png",
+      "skin": "https://1.bp.blogspot.com/-86A312jSD0A/YV1mg-BC3pI/AAAAAAAAAno/pTuMKBfW2gIiUmUGzLr5tPpBjJPmRBTPwCLcBGAsYHQ/s0/superhero_139.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_14.mcpack"
+    },
+    {
+      "id": 140,
+      "name_category": "Nature",
+      "title": "Superhero_140",
+      "image": "file:///android_asset/view/superhero_140.png",
+      "skin": "https://1.bp.blogspot.com/-8Iiyia7AJrE/YV1mhBOJ9kI/AAAAAAAAAns/u0Aux3wuEIMVcqhdDU0-5IUWA_dLnvvIgCLcBGAsYHQ/s0/superhero_140.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_14.mcpack"
+    },
+    {
+      "id": 141,
+      "name_category": "Nature",
+      "title": "Superhero_141",
+      "image": "file:///android_asset/view/superhero_141.png",
+      "skin": "https://1.bp.blogspot.com/-LcXUwNHv2Ts/YV1mhsH_ASI/AAAAAAAAAnw/1UuexzVrjewdBApumceGDxj0GjGpq8CbQCLcBGAsYHQ/s0/superhero_141.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_15.mcpack"
+    },
+    {
+      "id": 142,
+      "name_category": "Nature",
+      "title": "Superhero_142",
+      "image": "file:///android_asset/view/superhero_142.png",
+      "skin": "https://1.bp.blogspot.com/-3qY-Z1dTSgs/YV1mh0S7-rI/AAAAAAAAAn0/wWgqgC-D5xk7cCHBtqXbrBa4iGs-PLtGwCLcBGAsYHQ/s0/superhero_142.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_15.mcpack"
+    },
+    {
+      "id": 143,
+      "name_category": "Nature",
+      "title": "Superhero_143",
+      "image": "file:///android_asset/view/superhero_143.png",
+      "skin": "https://1.bp.blogspot.com/-pJKK7izNOtg/YV1miCoYW9I/AAAAAAAAAn4/yz82rWELhrMMRbG0ZhwwBuRY_EbTrlT_QCLcBGAsYHQ/s0/superhero_143.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_15.mcpack"
+    },
+    {
+      "id": 144,
+      "name_category": "Nature",
+      "title": "Superhero_144",
+      "image": "file:///android_asset/view/superhero_144.png",
+      "skin": "https://1.bp.blogspot.com/-1mXCBUpEQes/YV1mic61_XI/AAAAAAAAAn8/U_-PYDr9dFki-3PzNbfbYnF9KMZyfZVUACLcBGAsYHQ/s0/superhero_144.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_15.mcpack"
+    },
+    {
+      "id": 145,
+      "name_category": "Nature",
+      "title": "Superhero_145",
+      "image": "file:///android_asset/view/superhero_145.png",
+      "skin": "https://1.bp.blogspot.com/-DfISVvXhNyQ/YV1mjE4u-vI/AAAAAAAAAoA/34I2gNpUkrsveKSKhQWdLjSkmM-Se8VkgCLcBGAsYHQ/s0/superhero_145.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_15.mcpack"
+    },
+    {
+      "id": 146,
+      "name_category": "Nature",
+      "title": "Superhero_146",
+      "image": "file:///android_asset/view/superhero_146.png",
+      "skin": "https://1.bp.blogspot.com/-qCub2ZM6RTI/YV1mjYkS7bI/AAAAAAAAAoE/6wuxGYb3EfUZrkf4A7OTboVnou3WDpmAgCLcBGAsYHQ/s0/superhero_146.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_15.mcpack"
+    },
+    {
+      "id": 147,
+      "name_category": "Nature",
+      "title": "Superhero_147",
+      "image": "file:///android_asset/view/superhero_147.png",
+      "skin": "https://1.bp.blogspot.com/-C42WkIqnA7g/YV1mjc2HCGI/AAAAAAAAAoI/WQpf93r8vkEJYdfvRv1LoKrEzpEnDX-5wCLcBGAsYHQ/s0/superhero_147.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_15.mcpack"
+    },
+    {
+      "id": 148,
+      "name_category": "Nature",
+      "title": "Superhero_148",
+      "image": "file:///android_asset/view/superhero_148.png",
+      "skin": "https://1.bp.blogspot.com/-G4D6GkVeoHw/YV1mjzSPCtI/AAAAAAAAAoM/yCkS2Xegm64QhWpRv-IKQVHQpJEOmg0dgCLcBGAsYHQ/s0/superhero_148.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_15.mcpack"
+    },
+    {
+      "id": 149,
+      "name_category": "Nature",
+      "title": "Superhero_149",
+      "image": "file:///android_asset/view/superhero_149.png",
+      "skin": "https://1.bp.blogspot.com/-k9881LXaIH8/YV1mkBXBKiI/AAAAAAAAAoQ/ExtQ2V6PkNMD5hZ4EHlkAK5p_s3yMfOEgCLcBGAsYHQ/s0/superhero_149.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_15.mcpack"
+    },
+    {
+      "id": 150,
+      "name_category": "Nature",
+      "title": "Superhero_150",
+      "image": "file:///android_asset/view/superhero_150.png",
+      "skin": "https://1.bp.blogspot.com/-3YmLACONxaw/YV1mkFMZHPI/AAAAAAAAAoU/pSrJbypb8ogn6gbl2A9wHbRyLrfHlxQuACLcBGAsYHQ/s0/superhero_150.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_15.mcpack"
+    },
+    {
+      "id": 151,
+      "name_category": "Nature",
+      "title": "Superhero_151",
+      "image": "file:///android_asset/view/superhero_151.png",
+      "skin": "https://1.bp.blogspot.com/-mAlH2190t98/YV1nEoK7WnI/AAAAAAAAAo8/ZdpfQJPZHZ84A-F1HHoYWfXN1JkhdOjtgCLcBGAsYHQ/s0/superhero_151.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_16.mcpack"
+    },
+    {
+      "id": 152,
+      "name_category": "Nature",
+      "title": "Superhero_152",
+      "image": "file:///android_asset/view/superhero_152.png",
+      "skin": "https://1.bp.blogspot.com/-0k42CBhhWv8/YV1nErPTKPI/AAAAAAAAApA/_4YPHn2fvQAFZH5zmx8LVMFoUe70tU5NwCLcBGAsYHQ/s0/superhero_152.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_16.mcpack"
+    },
+    {
+      "id": 153,
+      "name_category": "Nature",
+      "title": "Superhero_153",
+      "image": "file:///android_asset/view/superhero_153.png",
+      "skin": "https://1.bp.blogspot.com/-neNzKvMVsHU/YV1nEpi7NKI/AAAAAAAAApE/6cXsY_qz2ZgI91cg49RycVfBSgMglH3JwCLcBGAsYHQ/s0/superhero_153.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_16.mcpack"
+    },
+    {
+      "id": 154,
+      "name_category": "Nature",
+      "title": "Superhero_154",
+      "image": "file:///android_asset/view/superhero_154.png",
+      "skin": "https://1.bp.blogspot.com/-GNSF0p95BAY/YV1nFrE57kI/AAAAAAAAApI/GIVYDpfQ6JQy1aFZj9R5fd2IE5Me-6ERQCLcBGAsYHQ/s0/superhero_154.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_16.mcpack"
+    },
+    {
+      "id": 155,
+      "name_category": "Nature",
+      "title": "Superhero_155",
+      "image": "file:///android_asset/view/superhero_155.png",
+      "skin": "https://1.bp.blogspot.com/-YVMAt2LxW2Q/YV1nFgvbkEI/AAAAAAAAApM/j8V1l2IVOW0OwekJ21dWlbR8_wT9K1eoACLcBGAsYHQ/s0/superhero_155.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_16.mcpack"
+    },
+    {
+      "id": 156,
+      "name_category": "Nature",
+      "title": "Superhero_156",
+      "image": "file:///android_asset/view/superhero_156.png",
+      "skin": "https://1.bp.blogspot.com/-dAJwEzEOVhk/YV1nF02oiMI/AAAAAAAAApQ/2ELLUcg7iE0T3QFMAYe_NiY929JVFFOOgCLcBGAsYHQ/s0/superhero_156.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_16.mcpack"
+    },
+    {
+      "id": 157,
+      "name_category": "Nature",
+      "title": "Superhero_157",
+      "image": "file:///android_asset/view/superhero_157.png",
+      "skin": "https://1.bp.blogspot.com/-JI0cmSIpA64/YV1nGJpPkBI/AAAAAAAAApU/71RdE2Eo6ygI_Dl5eykGsdexSkY5nfzwQCLcBGAsYHQ/s0/superhero_157.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_16.mcpack"
+    },
+    {
+      "id": 158,
+      "name_category": "Nature",
+      "title": "Superhero_158",
+      "image": "file:///android_asset/view/superhero_158.png",
+      "skin": "https://1.bp.blogspot.com/-Gl7nx6C25eo/YV1nGYmOFjI/AAAAAAAAApY/C4kGZ_IPpLsNy0lcRp30b819DUEPjSO5wCLcBGAsYHQ/s0/superhero_158.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_16.mcpack"
+    },
+    {
+      "id": 159,
+      "name_category": "Nature",
+      "title": "Superhero_159",
+      "image": "file:///android_asset/view/superhero_159.png",
+      "skin": "https://1.bp.blogspot.com/-nLb9-lgAFKc/YV1nGvg0MAI/AAAAAAAAApc/exYUBol7MNwt1sviT5so0KADOiWs5LzMQCLcBGAsYHQ/s0/superhero_159.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_16.mcpack"
+    },
+    {
+      "id": 160,
+      "name_category": "Nature",
+      "title": "Superhero_160",
+      "image": "file:///android_asset/view/superhero_160.png",
+      "skin": "https://1.bp.blogspot.com/-0m3EkAN_oWg/YV1nHHkfQHI/AAAAAAAAApg/Q6AYqghHP5wWqea6EVqIdf8SCQ0DTNeGQCLcBGAsYHQ/s0/superhero_160.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_16.mcpack"
+    },
+    {
+      "id": 161,
+      "name_category": "Nature",
+      "title": "Superhero_161",
+      "image": "file:///android_asset/view/superhero_161.png",
+      "skin": "https://1.bp.blogspot.com/-u8C4490-CGI/YV1nHKJ1A-I/AAAAAAAAApk/5bsNt4xp0hY0kz--R_uJr9CQWKwmINP-ACLcBGAsYHQ/s0/superhero_161.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_17.mcpack"
+    },
+    {
+      "id": 162,
+      "name_category": "Nature",
+      "title": "Superhero_162",
+      "image": "file:///android_asset/view/superhero_162.png",
+      "skin": "https://1.bp.blogspot.com/-G1Pa6E0T7u4/YV1nHTvEyoI/AAAAAAAAApo/LKHX8zXpCcM4w_0Cwcy5e9CIRqylSzh6ACLcBGAsYHQ/s0/superhero_162.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_17.mcpack"
+    },
+    {
+      "id": 163,
+      "name_category": "Nature",
+      "title": "Superhero_163",
+      "image": "file:///android_asset/view/superhero_163.png",
+      "skin": "https://1.bp.blogspot.com/-dSzi5vKgZBc/YV1nH4C8ijI/AAAAAAAAAps/5TO8PZXbd1coWtgrjbw41lSA55CqiuMWACLcBGAsYHQ/s0/superhero_163.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_17.mcpack"
+    },
+    {
+      "id": 164,
+      "name_category": "Nature",
+      "title": "Superhero_164",
+      "image": "file:///android_asset/view/superhero_164.png",
+      "skin": "https://1.bp.blogspot.com/-3u_ar8QSgTY/YV1nIdw_koI/AAAAAAAAApw/96Xtoig0QLQiOnkGO1vAUxO_ZNSVm1y8gCLcBGAsYHQ/s0/superhero_164.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_17.mcpack"
+    },
+    {
+      "id": 165,
+      "name_category": "Nature",
+      "title": "Superhero_165",
+      "image": "file:///android_asset/view/superhero_165.png",
+      "skin": "https://1.bp.blogspot.com/-tVaIoEKo4e4/YV1nIr2x5wI/AAAAAAAAAp0/NX3uy1ueeMEprH3tsRnmZkP1Dj_UIhlhACLcBGAsYHQ/s0/superhero_165.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_17.mcpack"
+    },
+    {
+      "id": 166,
+      "name_category": "Nature",
+      "title": "Superhero_166",
+      "image": "file:///android_asset/view/superhero_166.png",
+      "skin": "https://1.bp.blogspot.com/--RKe9HY1JD0/YV1nI7aodrI/AAAAAAAAAp4/Swu7NKbAj8kdpJGPRFmx6I8bmDimPp4yACLcBGAsYHQ/s0/superhero_166.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_17.mcpack"
+    },
+    {
+      "id": 167,
+      "name_category": "Nature",
+      "title": "Superhero_167",
+      "image": "file:///android_asset/view/superhero_167.png",
+      "skin": "https://1.bp.blogspot.com/-SEc3hiQ33Rk/YV1nJAiOzuI/AAAAAAAAAqA/_kC-T1CkysA-ELjbbx3tBs_wDnL5vtN0QCLcBGAsYHQ/s0/superhero_167.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_17.mcpack"
+    },
+    {
+      "id": 168,
+      "name_category": "Nature",
+      "title": "Superhero_168",
+      "image": "file:///android_asset/view/superhero_168.png",
+      "skin": "https://1.bp.blogspot.com/-x4VGgI7RlfU/YV1nJQewYGI/AAAAAAAAAp8/H7sPkT1qN-QnaleJJgpXWF0e7SpMFX6wwCLcBGAsYHQ/s0/superhero_168.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_17.mcpack"
+    },
+    {
+      "id": 169,
+      "name_category": "Nature",
+      "title": "Superhero_169",
+      "image": "file:///android_asset/view/superhero_169.png",
+      "skin": "https://1.bp.blogspot.com/-O3GyKP0HEAc/YV1nJlYGWgI/AAAAAAAAAqE/fbSHMS5dK1cYdLBCk80CD9x3g3bd-6KUwCLcBGAsYHQ/s0/superhero_169.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_17.mcpack"
+    },
+    {
+      "id": 170,
+      "name_category": "Nature",
+      "title": "Superhero_170",
+      "image": "file:///android_asset/view/superhero_170.png",
+      "skin": "https://1.bp.blogspot.com/-PeRGvIBFU7k/YV1nKRF3l0I/AAAAAAAAAqI/agfNK7xNn44Jf_qrLJV5tva9ubkyIvmVACLcBGAsYHQ/s0/superhero_170.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_17.mcpack"
+    },
+    {
+      "id": 171,
+      "name_category": "Nature",
+      "title": "Superhero_171",
+      "image": "file:///android_asset/view/superhero_171.png",
+      "skin": "https://1.bp.blogspot.com/-ttY0ijzYpUg/YV1nK_b3GTI/AAAAAAAAAqM/P3L2EG0cRhE96cZgqGbfeIJQhf_IjJ9nACLcBGAsYHQ/s0/superhero_171.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_18.mcpack"
+    },
+    {
+      "id": 172,
+      "name_category": "Nature",
+      "title": "Superhero_172",
+      "image": "file:///android_asset/view/superhero_172.png",
+      "skin": "https://1.bp.blogspot.com/-YDoMP5p87hw/YV1nKy8BA6I/AAAAAAAAAqQ/wXBFU23Wd_0NhTd08MkhTxH3dzpkOJdLwCLcBGAsYHQ/s0/superhero_172.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_18.mcpack"
+    },
+    {
+      "id": 173,
+      "name_category": "Nature",
+      "title": "Superhero_173",
+      "image": "file:///android_asset/view/superhero_173.png",
+      "skin": "https://1.bp.blogspot.com/-fGVxvP7LUi4/YV1nLODt9qI/AAAAAAAAAqU/fumnQIvvRk4-CMOruDyrBeCTid36mCcNwCLcBGAsYHQ/s0/superhero_173.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_18.mcpack"
+    },
+    {
+      "id": 174,
+      "name_category": "Nature",
+      "title": "Superhero_174",
+      "image": "file:///android_asset/view/superhero_174.png",
+      "skin": "https://1.bp.blogspot.com/-SS0JgSSgTQw/YV1nL31BfgI/AAAAAAAAAqY/oOwkWVrlE8Yv2cXeX5zmztGfprhpw_GqwCLcBGAsYHQ/s0/superhero_174.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_18.mcpack"
+    },
+    {
+      "id": 175,
+      "name_category": "Nature",
+      "title": "Superhero_175",
+      "image": "file:///android_asset/view/superhero_175.png",
+      "skin": "https://1.bp.blogspot.com/-BCqRxBHf3to/YV1nMAvaYMI/AAAAAAAAAqc/PI6l65szVpUnIxDiycJtXwb5fazeifu6QCLcBGAsYHQ/s0/superhero_175.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_18.mcpack"
+    },
+    {
+      "id": 176,
+      "name_category": "Nature",
+      "title": "Superhero_176",
+      "image": "file:///android_asset/view/superhero_176.png",
+      "skin": "https://1.bp.blogspot.com/-G51G8ZH3P-k/YV1nMJpLODI/AAAAAAAAAqg/JRDhYTXgKn0onj06y4ZVKPxdEgoDXL6OgCLcBGAsYHQ/s0/superhero_176.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_18.mcpack"
+    },
+    {
+      "id": 177,
+      "name_category": "Nature",
+      "title": "Superhero_177",
+      "image": "file:///android_asset/view/superhero_177.png",
+      "skin": "https://1.bp.blogspot.com/-EvHiBx3KKXQ/YV1nMk9CKwI/AAAAAAAAAqk/05_DK7D2e6gtptciCDMzY-DVngKx554xgCLcBGAsYHQ/s0/superhero_177.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_18.mcpack"
+    },
+    {
+      "id": 178,
+      "name_category": "Nature",
+      "title": "Superhero_178",
+      "image": "file:///android_asset/view/superhero_178.png",
+      "skin": "https://1.bp.blogspot.com/-CbVPvtfgY-c/YV1nMzkr5-I/AAAAAAAAAqo/jWxBikjTA-MD4Rrx9jducJRmHdgeQsg4wCLcBGAsYHQ/s0/superhero_178.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_18.mcpack"
+    },
+    {
+      "id": 179,
+      "name_category": "Nature",
+      "title": "Superhero_179",
+      "image": "file:///android_asset/view/superhero_179.png",
+      "skin": "https://1.bp.blogspot.com/-VKXndoCip0s/YV1nNBprC0I/AAAAAAAAAqs/bheaMKTRMC8SWAafaoBpdlQZyN01-UBywCLcBGAsYHQ/s0/superhero_179.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_18.mcpack"
+    },
+    {
+      "id": 180,
+      "name_category": "Nature",
+      "title": "Superhero_180",
+      "image": "file:///android_asset/view/superhero_180.png",
+      "skin": "https://1.bp.blogspot.com/-gFtBHYEnjQQ/YV1nNcurKRI/AAAAAAAAAqw/LMEhbS_XVSwxKSffOQTG9wo7J1suPAOmwCLcBGAsYHQ/s0/superhero_180.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_18.mcpack"
+    },
+    {
+      "id": 181,
+      "name_category": "Nature",
+      "title": "Superhero_181",
+      "image": "file:///android_asset/view/superhero_181.png",
+      "skin": "https://1.bp.blogspot.com/-qkKnQxDldGw/YV1nN-d37fI/AAAAAAAAAq0/-zqtjO_Zlq4xQ3YyxhZci-pkpq6d8nilACLcBGAsYHQ/s0/superhero_181.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_19.mcpack"
+    },
+    {
+      "id": 182,
+      "name_category": "Nature",
+      "title": "Superhero_182",
+      "image": "file:///android_asset/view/superhero_182.png",
+      "skin": "https://1.bp.blogspot.com/-8U4YF0hcpCM/YV1nNw0VqdI/AAAAAAAAAq4/YWMFFhG6AjMz71ZMvblOrIB6GvfKLDfGACLcBGAsYHQ/s0/superhero_182.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_19.mcpack"
+    },
+    {
+      "id": 183,
+      "name_category": "Nature",
+      "title": "Superhero_183",
+      "image": "file:///android_asset/view/superhero_183.png",
+      "skin": "https://1.bp.blogspot.com/-px1SXTUQ-y4/YV1nOFLXCBI/AAAAAAAAAq8/Y1Tgtz2Pc98Vl1s4tbDsd_Q3bVMtLAevwCLcBGAsYHQ/s0/superhero_183.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_19.mcpack"
+    },
+    {
+      "id": 184,
+      "name_category": "Nature",
+      "title": "Superhero_184",
+      "image": "file:///android_asset/view/superhero_184.png",
+      "skin": "https://1.bp.blogspot.com/-ROXoq5Akf6k/YV1nOsvKmLI/AAAAAAAAArA/CVsPekdSWDsk2-6wsYmR62C-MbiVJuS6wCLcBGAsYHQ/s0/superhero_184.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_19.mcpack"
+    },
+    {
+      "id": 185,
+      "name_category": "Nature",
+      "title": "Superhero_185",
+      "image": "file:///android_asset/view/superhero_185.png",
+      "skin": "https://1.bp.blogspot.com/-8EevM1ZAKYQ/YV1nOrBrajI/AAAAAAAAArE/WSicDpc_XioWoWW9L2SNoezRJRq6J0xlgCLcBGAsYHQ/s0/superhero_185.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_19.mcpack"
+    },
+    {
+      "id": 186,
+      "name_category": "Nature",
+      "title": "Superhero_186",
+      "image": "file:///android_asset/view/superhero_186.png",
+      "skin": "https://1.bp.blogspot.com/-OddzRjLKcIc/YV1nPE7x18I/AAAAAAAAArI/2bFbQ8092zQPXcWQ61gVLzp7fCuOirXZACLcBGAsYHQ/s0/superhero_186.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_19.mcpack"
+    },
+    {
+      "id": 187,
+      "name_category": "Nature",
+      "title": "Superhero_187",
+      "image": "file:///android_asset/view/superhero_187.png",
+      "skin": "https://1.bp.blogspot.com/-T0n1AgD7QUo/YV1nPtFPueI/AAAAAAAAArM/4hetwqNpv40ZeTENyrUL8-nSZUsPtrGqQCLcBGAsYHQ/s0/superhero_187.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_19.mcpack"
+    },
+    {
+      "id": 188,
+      "name_category": "Nature",
+      "title": "Superhero_188",
+      "image": "file:///android_asset/view/superhero_188.png",
+      "skin": "https://1.bp.blogspot.com/-SlvlR1ivDsI/YV1nPlGstSI/AAAAAAAAArQ/kIizykdRJV03fNrEIJvoH1G6dLMfS-EiACLcBGAsYHQ/s0/superhero_188.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_19.mcpack"
+    },
+    {
+      "id": 189,
+      "name_category": "Nature",
+      "title": "Superhero_189",
+      "image": "file:///android_asset/view/superhero_189.png",
+      "skin": "https://1.bp.blogspot.com/-iqU25btvp3o/YV1nPxoAw5I/AAAAAAAAArU/cWo_kfkVknsysnhjpoq_k3W-dJ_YN-eHgCLcBGAsYHQ/s0/superhero_189.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_19.mcpack"
+    },
+    {
+      "id": 190,
+      "name_category": "Nature",
+      "title": "Superhero_190",
+      "image": "file:///android_asset/view/superhero_190.png",
+      "skin": "https://1.bp.blogspot.com/-fh8v0f0HJVI/YV1nQkdFYYI/AAAAAAAAArY/q-LkCRc_fZg29Ze3jPesDgobzaPLNwz6ACLcBGAsYHQ/s0/superhero_190.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_19.mcpack"
+    },
+    {
+      "id": 191,
+      "name_category": "Nature",
+      "title": "Superhero_191",
+      "image": "file:///android_asset/view/superhero_191.png",
+      "skin": "https://1.bp.blogspot.com/-eEKALGluXnw/YV1nRDQdYoI/AAAAAAAAArc/Zb047Ec1R8gETB__7u-JDcaCWV3TyDkqQCLcBGAsYHQ/s0/superhero_191.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_20.mcpack"
+    },
+    {
+      "id": 192,
+      "name_category": "Nature",
+      "title": "Superhero_192",
+      "image": "file:///android_asset/view/superhero_192.png",
+      "skin": "https://1.bp.blogspot.com/-rvjGbiiB1RE/YV1nRS7pSsI/AAAAAAAAArg/a2J3mslluXgTZZh3XvMyTiEp_vYPQp8JgCLcBGAsYHQ/s0/superhero_192.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_20.mcpack"
+    },
+    {
+      "id": 193,
+      "name_category": "Nature",
+      "title": "Superhero_193",
+      "image": "file:///android_asset/view/superhero_193.png",
+      "skin": "https://1.bp.blogspot.com/-m1czsBsJh3g/YV1nRSO7oEI/AAAAAAAAArk/y9tHxCzO7wsDy2aDQ6o-xgmuvyId36pVACLcBGAsYHQ/s0/superhero_193.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_20.mcpack"
+    },
+    {
+      "id": 194,
+      "name_category": "Nature",
+      "title": "Superhero_194",
+      "image": "file:///android_asset/view/superhero_194.png",
+      "skin": "https://1.bp.blogspot.com/-riDHnfeFOLE/YV1nSPMwCQI/AAAAAAAAAro/EBP_kbihLyU30hdwRrX9T21rvoTs2OT-QCLcBGAsYHQ/s0/superhero_194.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_20.mcpack"
+    },
+    {
+      "id": 195,
+      "name_category": "Nature",
+      "title": "Superhero_195",
+      "image": "file:///android_asset/view/superhero_195.png",
+      "skin": "https://1.bp.blogspot.com/-py88N_Amazg/YV1nScqtoFI/AAAAAAAAArw/u4O92xegH7A64f7gqqYYT8XqtvPpm-QTACLcBGAsYHQ/s0/superhero_195.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_20.mcpack"
+    },
+    {
+      "id": 196,
+      "name_category": "Nature",
+      "title": "Superhero_196",
+      "image": "file:///android_asset/view/superhero_196.png",
+      "skin": "https://1.bp.blogspot.com/-1psFuZ07Unc/YV1nSf-aT0I/AAAAAAAAArs/WF3yQdgeejsdhOG_dmkUdpQXjbs5ZHFQwCLcBGAsYHQ/s0/superhero_196.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_20.mcpack"
+    },
+    {
+      "id": 197,
+      "name_category": "Nature",
+      "title": "Superhero_197",
+      "image": "file:///android_asset/view/superhero_197.png",
+      "skin": "https://1.bp.blogspot.com/-MOp6Rrpr6UU/YV1nS7Zw79I/AAAAAAAAAr0/Pl8wuXXXqVkaRMMehOqD4BbOvycEKkekQCLcBGAsYHQ/s0/superhero_197.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_20.mcpack"
+    },
+    {
+      "id": 198,
+      "name_category": "Nature",
+      "title": "Superhero_198",
+      "image": "file:///android_asset/view/superhero_198.png",
+      "skin": "https://1.bp.blogspot.com/-l1d-E4i7bc8/YV1nTKaAFII/AAAAAAAAAr8/0o2mywszA0o3pNN5FmuKODkrIic1Sc75gCLcBGAsYHQ/s0/superhero_198.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_20.mcpack"
+    },
+    {
+      "id": 199,
+      "name_category": "Nature",
+      "title": "Superhero_199",
+      "image": "file:///android_asset/view/superhero_199.png",
+      "skin": "https://1.bp.blogspot.com/-MUagqxpZ_mU/YV1nTJrXRGI/AAAAAAAAAr4/m0RyPogir3UoOMUbH9CHFmBgLPWRTtmzgCLcBGAsYHQ/s0/superhero_199.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_20.mcpack"
+    },
+    {
+      "id": 200,
+      "name_category": "Nature",
+      "title": "Superhero_200",
+      "image": "file:///android_asset/view/superhero_200.png",
+      "skin": "https://1.bp.blogspot.com/-VOWCX9hh92A/YV1nT-hTA_I/AAAAAAAAAsA/RfEBnYQj6RQ6X6VNZmhhpPNiJQVBRq7zACLcBGAsYHQ/s0/superhero_200.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_20.mcpack"
+    },
+    {
+      "id": 201,
+      "name_category": "Nature",
+      "title": "Superhero_201",
+      "image": "file:///android_asset/view/superhero_201.png",
+      "skin": "https://1.bp.blogspot.com/-DSKstvA86oM/YV1nUDf-ZQI/AAAAAAAAAsE/ScUhszr05iQlriL0S6GZCDl35CwnGkgWACLcBGAsYHQ/s0/superhero_201.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_21.mcpack"
+    },
+    {
+      "id": 202,
+      "name_category": "Nature",
+      "title": "Superhero_202",
+      "image": "file:///android_asset/view/superhero_202.png",
+      "skin": "https://1.bp.blogspot.com/-R3y4ODqMtow/YV1nUSD40LI/AAAAAAAAAsI/_eTbOX0R_IAKtD18zTcuvRZ1a10XSBx5wCLcBGAsYHQ/s0/superhero_202.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_21.mcpack"
+    },
+    {
+      "id": 203,
+      "name_category": "Nature",
+      "title": "Superhero_203",
+      "image": "file:///android_asset/view/superhero_203.png",
+      "skin": "https://1.bp.blogspot.com/-iSw9-4gJNQQ/YV1nUquOEkI/AAAAAAAAAsM/1_bREOsdmekblwyHnbUB1qD0MccSjxylQCLcBGAsYHQ/s0/superhero_203.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_21.mcpack"
+    },
+    {
+      "id": 204,
+      "name_category": "Nature",
+      "title": "Superhero_204",
+      "image": "file:///android_asset/view/superhero_204.png",
+      "skin": "https://1.bp.blogspot.com/-XeXQv5wOG8c/YV1nU1UCDAI/AAAAAAAAAsQ/_dOwq_-e23AN_hxnC9uh-FKDD1pSMOeDgCLcBGAsYHQ/s0/superhero_204.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_21.mcpack"
+    },
+    {
+      "id": 205,
+      "name_category": "Nature",
+      "title": "Superhero_205",
+      "image": "file:///android_asset/view/superhero_205.png",
+      "skin": "https://1.bp.blogspot.com/-jf4e7mSwVNQ/YV1nVHj1x0I/AAAAAAAAAsU/_aDRKiNHCn0F3IZmbngjh1igiEc21W6fACLcBGAsYHQ/s0/superhero_205.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_21.mcpack"
+    },
+    {
+      "id": 206,
+      "name_category": "Nature",
+      "title": "Superhero_206",
+      "image": "file:///android_asset/view/superhero_206.png",
+      "skin": "https://1.bp.blogspot.com/-DEC4GiCtWts/YV1nVdyR3SI/AAAAAAAAAsY/ZU4bvh9jkRk594sTengjV6nYbG6dAjmZACLcBGAsYHQ/s0/superhero_206.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_21.mcpack"
+    },
+    {
+      "id": 207,
+      "name_category": "Nature",
+      "title": "Superhero_207",
+      "image": "file:///android_asset/view/superhero_207.png",
+      "skin": "https://1.bp.blogspot.com/-fJH8n9IpaeY/YV1nVhbjJOI/AAAAAAAAAsc/RnVx7AbedU8m4PxVkw_qDdJV5mbuB9sXwCLcBGAsYHQ/s0/superhero_207.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_21.mcpack"
+    },
+    {
+      "id": 208,
+      "name_category": "Nature",
+      "title": "Superhero_208",
+      "image": "file:///android_asset/view/superhero_208.png",
+      "skin": "https://1.bp.blogspot.com/-K0KmqmIFszk/YV1nV0yxkMI/AAAAAAAAAsg/y0U2e5mmxqAtI98vMdwQ7Ffca6MdK0nIgCLcBGAsYHQ/s0/superhero_208.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_21.mcpack"
+    },
+    {
+      "id": 209,
+      "name_category": "Nature",
+      "title": "Superhero_209",
+      "image": "file:///android_asset/view/superhero_209.png",
+      "skin": "https://1.bp.blogspot.com/-tqcl0iMaICI/YV1nVyfruII/AAAAAAAAAsk/PI5EOrwuoVE1aPBjcVoTBj9aJ0nHJc8QQCLcBGAsYHQ/s0/superhero_209.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_21.mcpack"
+    },
+    {
+      "id": 210,
+      "name_category": "Nature",
+      "title": "Superhero_210",
+      "image": "file:///android_asset/view/superhero_210.png",
+      "skin": "https://1.bp.blogspot.com/-SMmCaBIEJqo/YV1nWNFCUyI/AAAAAAAAAso/Lm9vtQ0tS6U1T682Uy5trtO3YXLitzPOgCLcBGAsYHQ/s0/superhero_210.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_21.mcpack"
+    },
+    {
+      "id": 211,
+      "name_category": "Nature",
+      "title": "Superhero_211",
+      "image": "file:///android_asset/view/superhero_211.png",
+      "skin": "https://1.bp.blogspot.com/-G1UDbWkaLU0/YV1nWpjyrzI/AAAAAAAAAss/m8jtvpHSj5MI7rCIWds6V2Y2m_zHRApLQCLcBGAsYHQ/s0/superhero_211.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_22.mcpack"
+    },
+    {
+      "id": 212,
+      "name_category": "Nature",
+      "title": "Superhero_212",
+      "image": "file:///android_asset/view/superhero_212.png",
+      "skin": "https://1.bp.blogspot.com/-Iw0UFvc72s4/YV1nXAM0fEI/AAAAAAAAAsw/pMp65G6S2d84ibp_9sdds9RtzSKgalCZQCLcBGAsYHQ/s0/superhero_212.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_22.mcpack"
+    },
+    {
+      "id": 213,
+      "name_category": "Nature",
+      "title": "Superhero_213",
+      "image": "file:///android_asset/view/superhero_213.png",
+      "skin": "https://1.bp.blogspot.com/-58MGTZZqTIc/YV1nXI0FYGI/AAAAAAAAAs0/Y7JCC8eM92kIRGdwWQdH1ryRXo67Tk_nwCLcBGAsYHQ/s0/superhero_213.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_22.mcpack"
+    },
+    {
+      "id": 214,
+      "name_category": "Nature",
+      "title": "Superhero_214",
+      "image": "file:///android_asset/view/superhero_214.png",
+      "skin": "https://1.bp.blogspot.com/-4I-LQ7iH1_I/YV1nXu6iJhI/AAAAAAAAAs4/OGzz2et_eO4H1IsFt6cLaoxLxeahJ3rwQCLcBGAsYHQ/s0/superhero_214.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_22.mcpack"
+    },
+    {
+      "id": 215,
+      "name_category": "Nature",
+      "title": "Superhero_215",
+      "image": "file:///android_asset/view/superhero_215.png",
+      "skin": "https://1.bp.blogspot.com/-BN2uhDwKj9w/YV1nX3lzfNI/AAAAAAAAAtA/n3KvOxzDvEoKZnlupUnWajSyYOgu2RZ_gCLcBGAsYHQ/s0/superhero_215.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_22.mcpack"
+    },
+    {
+      "id": 216,
+      "name_category": "Nature",
+      "title": "Superhero_216",
+      "image": "file:///android_asset/view/superhero_216.png",
+      "skin": "https://1.bp.blogspot.com/-waGdxBv0jac/YV1nX4UxGWI/AAAAAAAAAs8/qiR0kQbi_0sJwLVb4JG1Fd2o8OamcFXugCLcBGAsYHQ/s0/superhero_216.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_22.mcpack"
+    },
+    {
+      "id": 217,
+      "name_category": "Nature",
+      "title": "Superhero_217",
+      "image": "file:///android_asset/view/superhero_217.png",
+      "skin": "https://1.bp.blogspot.com/-yd-LKt-Szjc/YV1nYcKAfaI/AAAAAAAAAtE/v1RFBZ-CjTw1lVF1AN8XgAQ4t1okDarOwCLcBGAsYHQ/s0/superhero_217.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_22.mcpack"
+    },
+    {
+      "id": 218,
+      "name_category": "Nature",
+      "title": "Superhero_218",
+      "image": "file:///android_asset/view/superhero_218.png",
+      "skin": "https://1.bp.blogspot.com/-RK2Xe5lfQ_I/YV1nYseJeFI/AAAAAAAAAtI/WLk7PVf1wU0jh-Ty984iIsZk8f-O28JVwCLcBGAsYHQ/s0/superhero_218.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_22.mcpack"
+    },
+    {
+      "id": 219,
+      "name_category": "Nature",
+      "title": "Superhero_219",
+      "image": "file:///android_asset/view/superhero_219.png",
+      "skin": "https://1.bp.blogspot.com/-O3czuoBIavg/YV1nZAjnd3I/AAAAAAAAAtM/3RHXo__a_WQD0JcDF5jmNa_ILIClrX93ACLcBGAsYHQ/s0/superhero_219.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_22.mcpack"
+    },
+    {
+      "id": 220,
+      "name_category": "Nature",
+      "title": "Superhero_220",
+      "image": "file:///android_asset/view/superhero_220.png",
+      "skin": "https://1.bp.blogspot.com/-yAfWIZ-TCdM/YV1nZbuZnwI/AAAAAAAAAtQ/RHh-kaq8aNM9cfnwz7cLFqg-V0Z8_xSZwCLcBGAsYHQ/s0/superhero_220.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_22.mcpack"
+    },
+    {
+      "id": 221,
+      "name_category": "Nature",
+      "title": "Superhero_221",
+      "image": "file:///android_asset/view/superhero_221.png",
+      "skin": "https://1.bp.blogspot.com/-eANABkFTdIs/YV1nZsAP8vI/AAAAAAAAAtU/RMHTaamrCwYEadnWLMKV6_PJnKFI3TMSQCLcBGAsYHQ/s0/superhero_221.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_23.mcpack"
+    },
+    {
+      "id": 222,
+      "name_category": "Nature",
+      "title": "Superhero_222",
+      "image": "file:///android_asset/view/superhero_222.png",
+      "skin": "https://1.bp.blogspot.com/-Vui4-fU1OI4/YV1nZwnPCBI/AAAAAAAAAtY/AflA3vMTAKMv80WoX3BZ8IoixPIwIfoewCLcBGAsYHQ/s0/superhero_222.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_23.mcpack"
+    },
+    {
+      "id": 223,
+      "name_category": "Nature",
+      "title": "Superhero_223",
+      "image": "file:///android_asset/view/superhero_223.png",
+      "skin": "https://1.bp.blogspot.com/-a0pC2--lieA/YV1naBn6nNI/AAAAAAAAAtc/WW4rUqJEZY08KbpPpBYkpdKjLypHzdKTwCLcBGAsYHQ/s0/superhero_223.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_23.mcpack"
+    },
+    {
+      "id": 224,
+      "name_category": "Nature",
+      "title": "Superhero_224",
+      "image": "file:///android_asset/view/superhero_224.png",
+      "skin": "https://1.bp.blogspot.com/-eod0DSk_zY4/YV1naXPZYZI/AAAAAAAAAtg/7krDGfZVJsMWj-_fGwuU-7st6KkJ9rqxACLcBGAsYHQ/s0/superhero_224.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_23.mcpack"
+    },
+    {
+      "id": 225,
+      "name_category": "Nature",
+      "title": "Superhero_225",
+      "image": "file:///android_asset/view/superhero_225.png",
+      "skin": "https://1.bp.blogspot.com/-d2WdsCjFgMU/YV1nanzA0WI/AAAAAAAAAtk/pliUI64tuuk8l6VKtWVX-x0uU7Oyoa7HQCLcBGAsYHQ/s0/superhero_225.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_23.mcpack"
+    },
+    {
+      "id": 226,
+      "name_category": "Nature",
+      "title": "Superhero_226",
+      "image": "file:///android_asset/view/superhero_226.png",
+      "skin": "https://1.bp.blogspot.com/-4KM-lqgE62U/YV1nazkBloI/AAAAAAAAAto/jlv-u5SsQFA92cZafBCyWulX35x4aVbfACLcBGAsYHQ/s0/superhero_226.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_23.mcpack"
+    },
+    {
+      "id": 227,
+      "name_category": "Nature",
+      "title": "Superhero_227",
+      "image": "file:///android_asset/view/superhero_227.png",
+      "skin": "https://1.bp.blogspot.com/-Ocp2zqcJ0Wk/YV1nbL8olJI/AAAAAAAAAts/FTmi6cYUm5QaFgGavzrVNg99D5Zud-noACLcBGAsYHQ/s0/superhero_227.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_23.mcpack"
+    },
+    {
+      "id": 228,
+      "name_category": "Nature",
+      "title": "Superhero_228",
+      "image": "file:///android_asset/view/superhero_228.png",
+      "skin": "https://1.bp.blogspot.com/-8-j8VxklLXA/YV1nbmOlW9I/AAAAAAAAAtw/mBFaW12OoaU6s9-pJJOvOtAHiQRp66REQCLcBGAsYHQ/s0/superhero_228.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_23.mcpack"
+    },
+    {
+      "id": 229,
+      "name_category": "Nature",
+      "title": "Superhero_229",
+      "image": "file:///android_asset/view/superhero_229.png",
+      "skin": "https://1.bp.blogspot.com/-D5cBYQzQjFg/YV1nbrPZxZI/AAAAAAAAAt0/P3QyLtH9c9k8r594RkWLq0jVKgHOV7N1wCLcBGAsYHQ/s0/superhero_229.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_23.mcpack"
+    },
+    {
+      "id": 230,
+      "name_category": "Nature",
+      "title": "Superhero_230",
+      "image": "file:///android_asset/view/superhero_230.png",
+      "skin": "https://1.bp.blogspot.com/-ID2syFrfubo/YV1nby87yII/AAAAAAAAAt4/014BexkL78MXlnB0dz5QfJmrXy1DynRXgCLcBGAsYHQ/s0/superhero_230.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_23.mcpack"
+    },
+    {
+      "id": 231,
+      "name_category": "Nature",
+      "title": "Superhero_231",
+      "image": "file:///android_asset/view/superhero_231.png",
+      "skin": "https://1.bp.blogspot.com/-rNP2APgbOi0/YV1ncKOvGzI/AAAAAAAAAt8/kTzmes0ijxsBrzdXeXJyovhwDAIza3MXwCLcBGAsYHQ/s0/superhero_231.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_24.mcpack"
+    },
+    {
+      "id": 232,
+      "name_category": "Nature",
+      "title": "Superhero_232",
+      "image": "file:///android_asset/view/superhero_232.png",
+      "skin": "https://1.bp.blogspot.com/-tkym7oz3QTI/YV1ncrcm5oI/AAAAAAAAAuA/KwVk2wdct6URjFWf381MVSrEME0J-24jgCLcBGAsYHQ/s0/superhero_232.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_24.mcpack"
+    },
+    {
+      "id": 233,
+      "name_category": "Nature",
+      "title": "Superhero_233",
+      "image": "file:///android_asset/view/superhero_233.png",
+      "skin": "https://1.bp.blogspot.com/-VeLzrevkrqU/YV1nc5HP6cI/AAAAAAAAAuE/mSDkJ5LbGCsmGRlQqP-D6Eou0OtB5b0NwCLcBGAsYHQ/s0/superhero_233.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_24.mcpack"
+    },
+    {
+      "id": 234,
+      "name_category": "Nature",
+      "title": "Superhero_234",
+      "image": "file:///android_asset/view/superhero_234.png",
+      "skin": "https://1.bp.blogspot.com/-CfBXEWc5Nn0/YV1nc2LDXqI/AAAAAAAAAuI/cncQeSUYUh8Ik_iLCTG-hrv9atX6KM8lACLcBGAsYHQ/s0/superhero_234.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_24.mcpack"
+    },
+    {
+      "id": 235,
+      "name_category": "Nature",
+      "title": "Superhero_235",
+      "image": "file:///android_asset/view/superhero_235.png",
+      "skin": "https://1.bp.blogspot.com/-SJyx8Z7PhiU/YV1ndUS8HOI/AAAAAAAAAuM/-TskWZuyhK4smpOKSEOV0t1_W3M2QwKDQCLcBGAsYHQ/s0/superhero_235.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_24.mcpack"
+    },
+    {
+      "id": 236,
+      "name_category": "Nature",
+      "title": "Superhero_236",
+      "image": "file:///android_asset/view/superhero_236.png",
+      "skin": "https://1.bp.blogspot.com/-jwtCuIyS7kY/YV1ndkE_CTI/AAAAAAAAAuQ/kGV6O7KFyjgalgseVCyrIVmahxnbxsKcgCLcBGAsYHQ/s0/superhero_236.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_24.mcpack"
+    },
+    {
+      "id": 237,
+      "name_category": "Nature",
+      "title": "Superhero_237",
+      "image": "file:///android_asset/view/superhero_237.png",
+      "skin": "https://1.bp.blogspot.com/-bdDb3vEC6MM/YV1nd69v7aI/AAAAAAAAAuU/IPx1CWbi9BYDmml_aJ6OpUGakOs1N7N5gCLcBGAsYHQ/s0/superhero_237.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_24.mcpack"
+    },
+    {
+      "id": 238,
+      "name_category": "Nature",
+      "title": "Superhero_238",
+      "image": "file:///android_asset/view/superhero_238.png",
+      "skin": "https://1.bp.blogspot.com/-14iR-wR-Ofc/YV1nePijRxI/AAAAAAAAAuY/Dko3mTEpdyc_pkFFHMwHvMKiEMqXFLp-QCLcBGAsYHQ/s0/superhero_238.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_24.mcpack"
+    },
+    {
+      "id": 239,
+      "name_category": "Nature",
+      "title": "Superhero_239",
+      "image": "file:///android_asset/view/superhero_239.png",
+      "skin": "https://1.bp.blogspot.com/-rfnBZaDXnnk/YV1nec_QWGI/AAAAAAAAAuc/hDM9ZoswwyAEDp1L9DYbGRNupi-pAmuMQCLcBGAsYHQ/s0/superhero_239.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_24.mcpack"
+    },
+    {
+      "id": 240,
+      "name_category": "Nature",
+      "title": "Superhero_240",
+      "image": "file:///android_asset/view/superhero_240.png",
+      "skin": "https://1.bp.blogspot.com/-Ki20yUFSPG0/YV1nencyHeI/AAAAAAAAAug/HJeNkUX0YqguW1FUyM-pGFrab59w_MqRACLcBGAsYHQ/s0/superhero_240.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_24.mcpack"
+    },
+    {
+      "id": 241,
+      "name_category": "Nature",
+      "title": "Superhero_241",
+      "image": "file:///android_asset/view/superhero_241.png",
+      "skin": "https://1.bp.blogspot.com/-fy0BNZ00jL4/YV1ne5SU_SI/AAAAAAAAAuk/hWfpgWVAO8MdEAe9nEjbNXmygsif-B2TQCLcBGAsYHQ/s0/superhero_241.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_25.mcpack"
+    },
+    {
+      "id": 242,
+      "name_category": "Nature",
+      "title": "Superhero_242",
+      "image": "file:///android_asset/view/superhero_242.png",
+      "skin": "https://1.bp.blogspot.com/-N_UPopx4DHY/YV1nfaRO62I/AAAAAAAAAuo/CbU3L9fA5Q4gBqsoYj03UQ8dbgK5mg3hACLcBGAsYHQ/s0/superhero_242.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_25.mcpack"
+    },
+    {
+      "id": 243,
+      "name_category": "Nature",
+      "title": "Superhero_243",
+      "image": "file:///android_asset/view/superhero_243.png",
+      "skin": "https://1.bp.blogspot.com/-GBSLvEuUums/YV1nflI_13I/AAAAAAAAAuw/HQewTZrr2BAixYoO-Gf73MWcpR1ZDDI-wCLcBGAsYHQ/s0/superhero_243.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_25.mcpack"
+    },
+    {
+      "id": 244,
+      "name_category": "Nature",
+      "title": "Superhero_244",
+      "image": "file:///android_asset/view/superhero_244.png",
+      "skin": "https://1.bp.blogspot.com/-YxCWvv7hIk4/YV1nfjq88WI/AAAAAAAAAus/zHHt3HKEssggjoxFxT6TCCE7vyz3fkwigCLcBGAsYHQ/s0/superhero_244.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_25.mcpack"
+    },
+    {
+      "id": 245,
+      "name_category": "Nature",
+      "title": "Superhero_245",
+      "image": "file:///android_asset/view/superhero_245.png",
+      "skin": "https://1.bp.blogspot.com/-FU4yHbJkl3U/YV1ngP4_kVI/AAAAAAAAAu0/IoSEjfyCizg2dEEYzKhr3IMN6fr47XzOwCLcBGAsYHQ/s0/superhero_245.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_25.mcpack"
+    },
+    {
+      "id": 246,
+      "name_category": "Nature",
+      "title": "Superhero_246",
+      "image": "file:///android_asset/view/superhero_246.png",
+      "skin": "https://1.bp.blogspot.com/-S19gccbebIU/YV1ngowXG3I/AAAAAAAAAu4/NZo0ka8ZSh0oTa2KYTnN4KgWIWHiT2b0gCLcBGAsYHQ/s0/superhero_246.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_25.mcpack"
+    },
+    {
+      "id": 247,
+      "name_category": "Nature",
+      "title": "Superhero_247",
+      "image": "file:///android_asset/view/superhero_247.png",
+      "skin": "https://1.bp.blogspot.com/-W--gSYGT0Ic/YV1ng8jxl0I/AAAAAAAAAu8/loUn00vlI4UU63I0tBToFnJ-CfjrHH8SwCLcBGAsYHQ/s0/superhero_247.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_25.mcpack"
+    },
+    {
+      "id": 248,
+      "name_category": "Nature",
+      "title": "Superhero_248",
+      "image": "file:///android_asset/view/superhero_248.png",
+      "skin": "https://1.bp.blogspot.com/-nqcs8hn4xNc/YV1ng2WF-9I/AAAAAAAAAvA/4duEZ0Hiv1c6b13q29yr45wli8-OwYZlACLcBGAsYHQ/s0/superhero_248.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_25.mcpack"
+    },
+    {
+      "id": 249,
+      "name_category": "Nature",
+      "title": "Superhero_249",
+      "image": "file:///android_asset/view/superhero_249.png",
+      "skin": "https://1.bp.blogspot.com/-zmii8PuT2GY/YV1nhBRcxCI/AAAAAAAAAvE/B8wvsL_uMIESLBFXpgQjFQNVm7QmguF8gCLcBGAsYHQ/s0/superhero_249.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_25.mcpack"
+    },
+    {
+      "id": 250,
+      "name_category": "Nature",
+      "title": "Superhero_250",
+      "image": "file:///android_asset/view/superhero_250.png",
+      "skin": "https://1.bp.blogspot.com/-cRVKwk8Wna0/YV1nhvcYbTI/AAAAAAAAAvI/RTn6P2QsMco9yJQdhmh_Cib9Gorz5wv_QCLcBGAsYHQ/s0/superhero_250.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_25.mcpack"
+    },
+    {
+      "id": 251,
+      "name_category": "Nature",
+      "title": "Superhero_251",
+      "image": "file:///android_asset/view/superhero_251.png",
+      "skin": "https://1.bp.blogspot.com/-R55PH_wAO9Q/YV1nh3_VKFI/AAAAAAAAAvM/uFdXR7_3GvAHfjbiJdv6i7ctVAEEOYJNACLcBGAsYHQ/s0/superhero_251.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_26.mcpack"
+    },
+    {
+      "id": 252,
+      "name_category": "Nature",
+      "title": "Superhero_252",
+      "image": "file:///android_asset/view/superhero_252.png",
+      "skin": "https://1.bp.blogspot.com/-Fn8vZTGTnzY/YV1nh3ZF5MI/AAAAAAAAAvQ/wrE92PKBDn8xmchaqvAGj-5v-wCzSzp0gCLcBGAsYHQ/s0/superhero_252.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_26.mcpack"
+    },
+    {
+      "id": 253,
+      "name_category": "Nature",
+      "title": "Superhero_253",
+      "image": "file:///android_asset/view/superhero_253.png",
+      "skin": "https://1.bp.blogspot.com/-ZfIJ8oofpc0/YV1niXtdZmI/AAAAAAAAAvU/zknCpw4sYJorZE_5kWxz5v7oRQwwd2edQCLcBGAsYHQ/s0/superhero_253.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_26.mcpack"
+    },
+    {
+      "id": 254,
+      "name_category": "Nature",
+      "title": "Superhero_254",
+      "image": "file:///android_asset/view/superhero_254.png",
+      "skin": "https://1.bp.blogspot.com/-KQVutwLXiR4/YV1nioB2U1I/AAAAAAAAAvY/0ZLk0G9pQtUzzvjQcugjdg-GT6JvQ9A4gCLcBGAsYHQ/s0/superhero_254.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_26.mcpack"
+    },
+    {
+      "id": 255,
+      "name_category": "Nature",
+      "title": "Superhero_255",
+      "image": "file:///android_asset/view/superhero_255.png",
+      "skin": "https://1.bp.blogspot.com/-8bvnb7LqlaY/YV1ni2oLA7I/AAAAAAAAAvc/2qNzJglzuUQ0LPL0yYsL7n72B55WIDP4gCLcBGAsYHQ/s0/superhero_255.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_26.mcpack"
+    },
+    {
+      "id": 256,
+      "name_category": "Nature",
+      "title": "Superhero_256",
+      "image": "file:///android_asset/view/superhero_256.png",
+      "skin": "https://1.bp.blogspot.com/-320Ca3FODic/YV1njNhk4AI/AAAAAAAAAvg/ifYKS17tOcQD_4TW7LM2KUqcrCks6OmTgCLcBGAsYHQ/s0/superhero_256.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_26.mcpack"
+    },
+    {
+      "id": 257,
+      "name_category": "Nature",
+      "title": "Superhero_257",
+      "image": "file:///android_asset/view/superhero_257.png",
+      "skin": "https://1.bp.blogspot.com/-YJtTlDeUfIc/YV1njncpseI/AAAAAAAAAvk/on9pVib_0yQeCr0Q9jAvNQNBBp7x6bzLACLcBGAsYHQ/s0/superhero_257.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_26.mcpack"
+    },
+    {
+      "id": 258,
+      "name_category": "Nature",
+      "title": "Superhero_258",
+      "image": "file:///android_asset/view/superhero_258.png",
+      "skin": "https://1.bp.blogspot.com/-75jAhmCm4Ms/YV1nj-YdYFI/AAAAAAAAAvo/YeB-1MH-mhYL1QgzExERjlHy3odKiyg0QCLcBGAsYHQ/s0/superhero_258.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_26.mcpack"
+    },
+    {
+      "id": 259,
+      "name_category": "Nature",
+      "title": "Superhero_259",
+      "image": "file:///android_asset/view/superhero_259.png",
+      "skin": "https://1.bp.blogspot.com/-PHzBpTodvmE/YV1njwXU4bI/AAAAAAAAAvs/5PsR9YnLjGQ34tk8cFqb0a9jTjdm_OF8ACLcBGAsYHQ/s0/superhero_259.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_26.mcpack"
+    },
+    {
+      "id": 260,
+      "name_category": "Nature",
+      "title": "Superhero_260",
+      "image": "file:///android_asset/view/superhero_260.png",
+      "skin": "https://1.bp.blogspot.com/-intrIxAWvOo/YV1nkctCnSI/AAAAAAAAAvw/stzOpvQCnpgNP93qFpxaQV9ukcZOm3KHgCLcBGAsYHQ/s0/superhero_260.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_26.mcpack"
+    },
+    {
+      "id": 261,
+      "name_category": "Nature",
+      "title": "Superhero_261",
+      "image": "file:///android_asset/view/superhero_261.png",
+      "skin": "https://1.bp.blogspot.com/-_ExuWLPAiXc/YV1nlJdQlZI/AAAAAAAAAv4/J4WBkTsjshsPXRCF4irZAdMsTaCUZmnrwCLcBGAsYHQ/s0/superhero_261.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_27.mcpack"
+    },
+    {
+      "id": 262,
+      "name_category": "Nature",
+      "title": "Superhero_262",
+      "image": "file:///android_asset/view/superhero_262.png",
+      "skin": "https://1.bp.blogspot.com/-hSd3WcLwkdY/YV1nlF5wC8I/AAAAAAAAAv0/qDiT7RW-0dgNvrWq8Syp8mmnH-zBRxQOQCLcBGAsYHQ/s0/superhero_262.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_27.mcpack"
+    },
+    {
+      "id": 263,
+      "name_category": "Nature",
+      "title": "Superhero_263",
+      "image": "file:///android_asset/view/superhero_263.png",
+      "skin": "https://1.bp.blogspot.com/-yiihnUpKzmY/YV1nlJAnz9I/AAAAAAAAAv8/vdjd0ATbdCY7c7BnU4LcahpMiCKYL65zQCLcBGAsYHQ/s0/superhero_263.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_27.mcpack"
+    },
+    {
+      "id": 264,
+      "name_category": "Nature",
+      "title": "Superhero_264",
+      "image": "file:///android_asset/view/superhero_264.png",
+      "skin": "https://1.bp.blogspot.com/-pM47MTekbjk/YV1nmK56nkI/AAAAAAAAAwA/4FtypswxX2QF_W7ELnAJ0kjvW4euVtpZQCLcBGAsYHQ/s0/superhero_264.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_27.mcpack"
+    },
+    {
+      "id": 265,
+      "name_category": "Nature",
+      "title": "Superhero_265",
+      "image": "file:///android_asset/view/superhero_265.png",
+      "skin": "https://1.bp.blogspot.com/-2-K9eTYvTPs/YV1nmauElSI/AAAAAAAAAwE/1E6Jrkn7PWUwpm2JSuI3hdLgW9CdmNhQQCLcBGAsYHQ/s0/superhero_265.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_27.mcpack"
+    },
+    {
+      "id": 266,
+      "name_category": "Nature",
+      "title": "Superhero_266",
+      "image": "file:///android_asset/view/superhero_266.png",
+      "skin": "https://1.bp.blogspot.com/-1evmomGfxkI/YV1nml6y4_I/AAAAAAAAAwI/YMWO4LYMnb08o_Ot3JDcLAbgF8CylKUOQCLcBGAsYHQ/s0/superhero_266.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_27.mcpack"
+    },
+    {
+      "id": 267,
+      "name_category": "Nature",
+      "title": "Superhero_267",
+      "image": "file:///android_asset/view/superhero_267.png",
+      "skin": "https://1.bp.blogspot.com/-q-1Rc0yYkfM/YV1nmwyQejI/AAAAAAAAAwM/36hdIf3uIBAxXAo4VZZ3fYr88-kG6_FbQCLcBGAsYHQ/s0/superhero_267.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_27.mcpack"
+    },
+    {
+      "id": 268,
+      "name_category": "Nature",
+      "title": "Superhero_268",
+      "image": "file:///android_asset/view/superhero_268.png",
+      "skin": "https://1.bp.blogspot.com/-c1SyM-a6tDg/YV1nnJUw4XI/AAAAAAAAAwQ/T4FNKNP14XsjU0CwldWhNlPnvqYE_deVgCLcBGAsYHQ/s0/superhero_268.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_27.mcpack"
+    },
+    {
+      "id": 269,
+      "name_category": "Nature",
+      "title": "Superhero_269",
+      "image": "file:///android_asset/view/superhero_269.png",
+      "skin": "https://1.bp.blogspot.com/-d1wDcYPDu10/YV1nnmqRmFI/AAAAAAAAAwU/DTpiHDajXksvy4x8GeR23BIBaR7rA36lgCLcBGAsYHQ/s0/superhero_269.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_27.mcpack"
+    },
+    {
+      "id": 270,
+      "name_category": "Nature",
+      "title": "Superhero_270",
+      "image": "file:///android_asset/view/superhero_270.png",
+      "skin": "https://1.bp.blogspot.com/-hXGYxWVafD0/YV1nnxBGYlI/AAAAAAAAAwY/tS9F-TtYJ-E-JEPj__cG4SBzrgPxaDYNgCLcBGAsYHQ/s0/superhero_270.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_27.mcpack"
+    },
+    {
+      "id": 271,
+      "name_category": "Nature",
+      "title": "Superhero_271",
+      "image": "file:///android_asset/view/superhero_271.png",
+      "skin": "https://1.bp.blogspot.com/-Ka8vEnEaOFA/YV1noIEDe3I/AAAAAAAAAwc/KFjZ4G9VsiAMl17aO-jtusVXaHm6VFk8wCLcBGAsYHQ/s0/superhero_271.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_28.mcpack"
+    },
+    {
+      "id": 272,
+      "name_category": "Nature",
+      "title": "Superhero_272",
+      "image": "file:///android_asset/view/superhero_272.png",
+      "skin": "https://1.bp.blogspot.com/-BYydDJRb6AY/YV1noRzgsMI/AAAAAAAAAwg/T6z2mkbaydoM7jonts7tt6GaRzF8uBQvgCLcBGAsYHQ/s0/superhero_272.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_28.mcpack"
+    },
+    {
+      "id": 273,
+      "name_category": "Nature",
+      "title": "Superhero_273",
+      "image": "file:///android_asset/view/superhero_273.png",
+      "skin": "https://1.bp.blogspot.com/-XI94CmOpuzQ/YV1nojsOeII/AAAAAAAAAwk/5guVH17RAQUuS0tO4eFK4Rsvm2_EX_9DQCLcBGAsYHQ/s0/superhero_273.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_28.mcpack"
+    },
+    {
+      "id": 274,
+      "name_category": "Nature",
+      "title": "Superhero_274",
+      "image": "file:///android_asset/view/superhero_274.png",
+      "skin": "https://1.bp.blogspot.com/-ZNxzvI_hk3Y/YV1nozQFTKI/AAAAAAAAAwo/e28IopQBtRQq6ElNj5tNwqnitQLqZX3xQCLcBGAsYHQ/s0/superhero_274.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_28.mcpack"
+    },
+    {
+      "id": 275,
+      "name_category": "Nature",
+      "title": "Superhero_275",
+      "image": "file:///android_asset/view/superhero_275.png",
+      "skin": "https://1.bp.blogspot.com/--mtrDFUiFr8/YV1npKMYVvI/AAAAAAAAAws/VZAqsuJCUo0CxRiyJpTFb3d6n0865szUgCLcBGAsYHQ/s0/superhero_275.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_28.mcpack"
+    },
+    {
+      "id": 276,
+      "name_category": "Nature",
+      "title": "Superhero_276",
+      "image": "file:///android_asset/view/superhero_276.png",
+      "skin": "https://1.bp.blogspot.com/--cHwxImEzcw/YV1npZ5YHnI/AAAAAAAAAww/EO4ggpo2qBQtlgx_ZcteqYjrHJTaQu-XACLcBGAsYHQ/s0/superhero_276.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_28.mcpack"
+    },
+    {
+      "id": 277,
+      "name_category": "Nature",
+      "title": "Superhero_277",
+      "image": "file:///android_asset/view/superhero_277.png",
+      "skin": "https://1.bp.blogspot.com/-bVzwbhi_JVk/YV1npx25ojI/AAAAAAAAAw0/Byfasl5SU5QbqIYO2c1Tmy_ovJe8AY31gCLcBGAsYHQ/s0/superhero_277.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_28.mcpack"
+    },
+    {
+      "id": 278,
+      "name_category": "Nature",
+      "title": "Superhero_278",
+      "image": "file:///android_asset/view/superhero_278.png",
+      "skin": "https://1.bp.blogspot.com/-WxyfadKsCY4/YV1np9L_UbI/AAAAAAAAAw4/FmvaGUiEIk8gMioB5IktlOWAxWlLAR-9wCLcBGAsYHQ/s0/superhero_278.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_28.mcpack"
+    },
+    {
+      "id": 279,
+      "name_category": "Nature",
+      "title": "Superhero_279",
+      "image": "file:///android_asset/view/superhero_279.png",
+      "skin": "https://1.bp.blogspot.com/-qh-09Puqujw/YV1nqRf64FI/AAAAAAAAAw8/JDTYlU4aWYEsD_QBbeVzXzfC7zd6GkncQCLcBGAsYHQ/s0/superhero_279.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_28.mcpack"
+    },
+    {
+      "id": 280,
+      "name_category": "Nature",
+      "title": "Superhero_280",
+      "image": "file:///android_asset/view/superhero_280.png",
+      "skin": "https://1.bp.blogspot.com/-T1HGF17RbCY/YV1nqpzLLvI/AAAAAAAAAxA/UcHNtP35DtgJMMvK_i03xLdbiCsaSf3-QCLcBGAsYHQ/s0/superhero_280.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_28.mcpack"
+    },
+    {
+      "id": 281,
+      "name_category": "Nature",
+      "title": "Superhero_281",
+      "image": "file:///android_asset/view/superhero_281.png",
+      "skin": "https://1.bp.blogspot.com/-81vYRFTjSyc/YV1nq-grCjI/AAAAAAAAAxE/KJ7Vwnj4LhA8D7DHi8zib3Bue6qx3tngwCLcBGAsYHQ/s0/superhero_281.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_29.mcpack"
+    },
+    {
+      "id": 282,
+      "name_category": "Nature",
+      "title": "Superhero_282",
+      "image": "file:///android_asset/view/superhero_282.png",
+      "skin": "https://1.bp.blogspot.com/-pL7GAgrltH0/YV1nrDLSc6I/AAAAAAAAAxI/7o51UKKksWsYFAz3z31x3Uyeap9JRnNcgCLcBGAsYHQ/s0/superhero_282.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_29.mcpack"
+    },
+    {
+      "id": 283,
+      "name_category": "Nature",
+      "title": "Superhero_283",
+      "image": "file:///android_asset/view/superhero_283.png",
+      "skin": "https://1.bp.blogspot.com/-Ufqx32UpknM/YV1nrWmUVEI/AAAAAAAAAxM/ndAE80CIs4ENNg0qC0Jc6gw0dV_7jcBmgCLcBGAsYHQ/s0/superhero_283.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_29.mcpack"
+    },
+    {
+      "id": 284,
+      "name_category": "Nature",
+      "title": "Superhero_284",
+      "image": "file:///android_asset/view/superhero_284.png",
+      "skin": "https://1.bp.blogspot.com/-RhWYrsSVO-0/YV1nruCpkmI/AAAAAAAAAxQ/N_O5WXg12WwiMFv-mcVTCWl9iHU14QiMQCLcBGAsYHQ/s0/superhero_284.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_29.mcpack"
+    },
+    {
+      "id": 285,
+      "name_category": "Nature",
+      "title": "Superhero_285",
+      "image": "file:///android_asset/view/superhero_285.png",
+      "skin": "https://1.bp.blogspot.com/-dWAnxoAF7SI/YV1nsKQYKTI/AAAAAAAAAxU/rOku8KEWxSoBIXUeUsO4zBne4dbXlf-2ACLcBGAsYHQ/s0/superhero_285.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_29.mcpack"
+    },
+    {
+      "id": 286,
+      "name_category": "Nature",
+      "title": "Superhero_286",
+      "image": "file:///android_asset/view/superhero_286.png",
+      "skin": "https://1.bp.blogspot.com/-iG-21-sed_w/YV1nsXcHzrI/AAAAAAAAAxY/0zo1zWv_ndUCuCxdxoThPIjy4Vrl0-DHgCLcBGAsYHQ/s0/superhero_286.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_29.mcpack"
+    },
+    {
+      "id": 287,
+      "name_category": "Nature",
+      "title": "Superhero_287",
+      "image": "file:///android_asset/view/superhero_287.png",
+      "skin": "https://1.bp.blogspot.com/-J2gItsshLNE/YV1nspa_uMI/AAAAAAAAAxc/HAHskIrSB8gbsZzqCixeWd1Hjw6YwkCtACLcBGAsYHQ/s0/superhero_287.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_29.mcpack"
+    },
+    {
+      "id": 288,
+      "name_category": "Nature",
+      "title": "Superhero_288",
+      "image": "file:///android_asset/view/superhero_288.png",
+      "skin": "https://1.bp.blogspot.com/-eF7OhCRicPc/YV1nsxH5fkI/AAAAAAAAAxg/WI0b6gsB8I4yhDcaquewffrBFB28MAB7gCLcBGAsYHQ/s0/superhero_288.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_29.mcpack"
+    },
+    {
+      "id": 289,
+      "name_category": "Nature",
+      "title": "Superhero_289",
+      "image": "file:///android_asset/view/superhero_289.png",
+      "skin": "https://1.bp.blogspot.com/-NhJrETGrMI0/YV1ntLmnYSI/AAAAAAAAAxk/QaR8szb6zMcDiTUoiN6GY0bYOJHv6lMXQCLcBGAsYHQ/s0/superhero_289.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_29.mcpack"
+    },
+    {
+      "id": 290,
+      "name_category": "Nature",
+      "title": "Superhero_290",
+      "image": "file:///android_asset/view/superhero_290.png",
+      "skin": "https://1.bp.blogspot.com/-hs2BbjycWv8/YV1ntpJ3mlI/AAAAAAAAAxs/yrMkidE-Gz0WA1ztkGmo_zzyHL5JrbS7QCLcBGAsYHQ/s0/superhero_290.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_29.mcpack"
+    },
+    {
+      "id": 291,
+      "name_category": "Nature",
+      "title": "Superhero_291",
+      "image": "file:///android_asset/view/superhero_291.png",
+      "skin": "https://1.bp.blogspot.com/-pYYN-Fs_w-M/YV1ntY1yQdI/AAAAAAAAAxo/HnezQDpI0kgzd2H_SyWo_nER-aKEJI_0gCLcBGAsYHQ/s0/superhero_291.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_29.mcpack"
+    },
+    {
+      "id": 292,
+      "name_category": "Nature",
+      "title": "Superhero_292",
+      "image": "file:///android_asset/view/superhero_292.png",
+      "skin": "https://1.bp.blogspot.com/-tt4Zo7svFZk/YV1nt8qdpzI/AAAAAAAAAxw/PiSrifAsOegL_jMjoBM6ILFZ24Qs08YngCLcBGAsYHQ/s0/superhero_292.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_30.mcpack"
+    },
+    {
+      "id": 293,
+      "name_category": "Nature",
+      "title": "Superhero_293",
+      "image": "file:///android_asset/view/superhero_293.png",
+      "skin": "https://1.bp.blogspot.com/-683Hh8VsakA/YV1nuiKeC7I/AAAAAAAAAx0/0p4L-fQVldk4A3SdtQkpW7JKlSLBymPtACLcBGAsYHQ/s0/superhero_293.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_30.mcpack"
+    },
+    {
+      "id": 294,
+      "name_category": "Nature",
+      "title": "Superhero_294",
+      "image": "file:///android_asset/view/superhero_294.png",
+      "skin": "https://1.bp.blogspot.com/-iQ2pjqz_v-k/YV1nupVBxII/AAAAAAAAAx4/adyKeFUENpcADE_dDNYB1VOcWTo7m2u0gCLcBGAsYHQ/s0/superhero_294.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_30.mcpack"
+    },
+    {
+      "id": 295,
+      "name_category": "Nature",
+      "title": "Superhero_295",
+      "image": "file:///android_asset/view/superhero_295.png",
+      "skin": "https://1.bp.blogspot.com/-GHrTci49PPc/YV1nu1SkSZI/AAAAAAAAAx8/g8RzBZ2OP-cRbensCFUkQ3QxVdn09DnxwCLcBGAsYHQ/s0/superhero_295.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_30.mcpack"
+    },
+    {
+      "id": 296,
+      "name_category": "Nature",
+      "title": "Superhero_296",
+      "image": "file:///android_asset/view/superhero_296.png",
+      "skin": "https://1.bp.blogspot.com/-HJaxf5qQRIU/YV1nvX_GhII/AAAAAAAAAyA/xC8HvWonLyk7s-VmtV0WA8_x4WlXTlTgQCLcBGAsYHQ/s0/superhero_296.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_30.mcpack"
+    },
+    {
+      "id": 297,
+      "name_category": "Nature",
+      "title": "Superhero_297",
+      "image": "file:///android_asset/view/superhero_297.png",
+      "skin": "https://1.bp.blogspot.com/-BUfC45prvQM/YV1nvToCOoI/AAAAAAAAAyE/nMKWSy-lkoc3uHUZVZteJSzNuVcUmrFawCLcBGAsYHQ/s0/superhero_297.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_30.mcpack"
+    },
+    {
+      "id": 298,
+      "name_category": "Nature",
+      "title": "Superhero_298",
+      "image": "file:///android_asset/view/superhero_298.png",
+      "skin": "https://1.bp.blogspot.com/-3ZxB8W9IqkI/YV1nvhCuTWI/AAAAAAAAAyI/5R9WHs4gliIYJdPfk5IqdMuWB5FDttmMACLcBGAsYHQ/s0/superhero_298.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_30.mcpack"
+    },
+    {
+      "id": 299,
+      "name_category": "Nature",
+      "title": "Superhero_299",
+      "image": "file:///android_asset/view/superhero_299.png",
+      "skin": "https://1.bp.blogspot.com/-wU4iRRSM5hU/YV1nwISorQI/AAAAAAAAAyM/MFtJOcVdmiogCfPhSabeWeqze9AEP8_fgCLcBGAsYHQ/s0/superhero_299.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_30.mcpack"
+    },
+    {
+      "id": 300,
+      "name_category": "Nature",
+      "title": "Superhero_300",
+      "image": "file:///android_asset/view/superhero_300.png",
+      "skin": "https://1.bp.blogspot.com/-WuD_RmncQT0/YV1nwX8SzdI/AAAAAAAAAyQ/8SFbvXwVYh8mvM0_WVIW_3a0BdmxlUhlACLcBGAsYHQ/s0/superhero_300.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_30.mcpack"
+    },
+    {
+      "id": 301,
+      "name_category": "Nature",
+      "title": "Superhero_301",
+      "image": "file:///android_asset/view/superhero_301.png",
+      "skin": "https://1.bp.blogspot.com/-T3lMAf1vW-s/YV1nwU5QPDI/AAAAAAAAAyU/80dNQy1sXhY6pIW04BrMSaAOyTVIo7nowCLcBGAsYHQ/s0/superhero_301.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_31.mcpack"
+    },
+    {
+      "id": 302,
+      "name_category": "Nature",
+      "title": "Superhero_302",
+      "image": "file:///android_asset/view/superhero_302.png",
+      "skin": "https://1.bp.blogspot.com/-vrY4bl3zRME/YV1nw4i76nI/AAAAAAAAAyY/aHtY0-Wk8s0REREPE7xAPDV3qXrleFNEQCLcBGAsYHQ/s0/superhero_302.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_31.mcpack"
+    },
+    {
+      "id": 303,
+      "name_category": "Nature",
+      "title": "Superhero_303",
+      "image": "file:///android_asset/view/superhero_303.png",
+      "skin": "https://1.bp.blogspot.com/-SQ2LHH6L5ZI/YV1nxSr_kgI/AAAAAAAAAyc/R_vwjAOkzk0M2Ias5-V1z1GgoUYXuEXugCLcBGAsYHQ/s0/superhero_303.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_31.mcpack"
+    },
+    {
+      "id": 304,
+      "name_category": "Nature",
+      "title": "Superhero_304",
+      "image": "file:///android_asset/view/superhero_304.png",
+      "skin": "https://1.bp.blogspot.com/-mEkD2zQZpYY/YV1nxjfdpoI/AAAAAAAAAyg/IrK6QHNsFUU6HnFg74qLgBJ59yjE2McCwCLcBGAsYHQ/s0/superhero_304.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_31.mcpack"
+    },
+    {
+      "id": 305,
+      "name_category": "Nature",
+      "title": "Superhero_305",
+      "image": "file:///android_asset/view/superhero_305.png",
+      "skin": "https://1.bp.blogspot.com/-buNcsjSk9Q8/YV1nxipLyMI/AAAAAAAAAyk/psxbGhVDTKIfuFTZ87HAybonFucZgno_ACLcBGAsYHQ/s0/superhero_305.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_31.mcpack"
+    },
+    {
+      "id": 306,
+      "name_category": "Nature",
+      "title": "Superhero_306",
+      "image": "file:///android_asset/view/superhero_306.png",
+      "skin": "https://1.bp.blogspot.com/-ezEKcZqyQoU/YV1nyEZstuI/AAAAAAAAAyo/QZZRYvXHPYkGg-0L2pM6-3eITgs-B9t5ACLcBGAsYHQ/s0/superhero_306.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_31.mcpack"
+    },
+    {
+      "id": 307,
+      "name_category": "Nature",
+      "title": "Superhero_307",
+      "image": "file:///android_asset/view/superhero_307.png",
+      "skin": "https://1.bp.blogspot.com/-mlljeTJ-UcI/YV1nykV03cI/AAAAAAAAAys/xNxXkkCv1VwDny0cWn_WPmzmoYzqIiULwCLcBGAsYHQ/s0/superhero_307.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_31.mcpack"
+    },
+    {
+      "id": 308,
+      "name_category": "Nature",
+      "title": "Superhero_308",
+      "image": "file:///android_asset/view/superhero_308.png",
+      "skin": "https://1.bp.blogspot.com/-ML0rBpmO8fA/YV1ny4IH2jI/AAAAAAAAAyw/w8sAGDCTJW4CtQZ-vpjtTYStnVVT-V2IQCLcBGAsYHQ/s0/superhero_308.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_31.mcpack"
+    },
+    {
+      "id": 309,
+      "name_category": "Nature",
+      "title": "Superhero_309",
+      "image": "file:///android_asset/view/superhero_309.png",
+      "skin": "https://1.bp.blogspot.com/-GCTM8rLb-Nc/YV1nzLY20-I/AAAAAAAAAy0/MYPZ8XHcigsqPXzSIa-Q9gw42sGTcPO8ACLcBGAsYHQ/s0/superhero_309.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_31.mcpack"
+    },
+    {
+      "id": 310,
+      "name_category": "Nature",
+      "title": "Superhero_310",
+      "image": "file:///android_asset/view/superhero_310.png",
+      "skin": "https://1.bp.blogspot.com/-yynJivcvQ18/YV1nzdYTwCI/AAAAAAAAAy4/jA6jnSbcKKgBzE2dm-XE_QEXUuyaCpCHwCLcBGAsYHQ/s0/superhero_310.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_31.mcpack"
+    },
+    {
+      "id": 311,
+      "name_category": "Nature",
+      "title": "Superhero_311",
+      "image": "file:///android_asset/view/superhero_311.png",
+      "skin": "https://1.bp.blogspot.com/-weKGZ6GSjFA/YV1nz2qhdUI/AAAAAAAAAy8/nfSwRwhjXFcMUOSEsVap7kVFE5Lw_vYswCLcBGAsYHQ/s0/superhero_311.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_32.mcpack"
+    },
+    {
+      "id": 312,
+      "name_category": "Nature",
+      "title": "Superhero_312",
+      "image": "file:///android_asset/view/superhero_312.png",
+      "skin": "https://1.bp.blogspot.com/-Rp9bsXZdTIU/YV1n0HFHtbI/AAAAAAAAAzA/GRiObGUMmAg_TZYuLayM7GvK9HFVwL3yQCLcBGAsYHQ/s0/superhero_312.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_32.mcpack"
+    },
+    {
+      "id": 313,
+      "name_category": "Nature",
+      "title": "Superhero_313",
+      "image": "file:///android_asset/view/superhero_313.png",
+      "skin": "https://1.bp.blogspot.com/-gfkhmaIyKhY/YV1n0AAXFVI/AAAAAAAAAzE/WqfxTr-kRpk50U86MkHlDB2cQuMr5IA9wCLcBGAsYHQ/s0/superhero_313.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_32.mcpack"
+    },
+    {
+      "id": 314,
+      "name_category": "Nature",
+      "title": "Superhero_314",
+      "image": "file:///android_asset/view/superhero_314.png",
+      "skin": "https://1.bp.blogspot.com/-ytLa6cemPd4/YV1n0h9YaLI/AAAAAAAAAzI/uzqweu8yiIY2fTxf9xred_ZPyjWeMtF8ACLcBGAsYHQ/s0/superhero_314.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_32.mcpack"
+    },
+    {
+      "id": 315,
+      "name_category": "Nature",
+      "title": "Superhero_315",
+      "image": "file:///android_asset/view/superhero_315.png",
+      "skin": "https://1.bp.blogspot.com/-oyodXnpCTFw/YV1n1DoHBeI/AAAAAAAAAzQ/OGYep5bJOCIIg33UcEflU7lXkUKjURUgACLcBGAsYHQ/s0/superhero_315.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_32.mcpack"
+    },
+    {
+      "id": 316,
+      "name_category": "Nature",
+      "title": "Superhero_316",
+      "image": "file:///android_asset/view/superhero_316.png",
+      "skin": "https://1.bp.blogspot.com/-bwQfEXb87NQ/YV1n1AqdIrI/AAAAAAAAAzM/mDDOUDkLnw0nfLSq8KcqSNC6tLEhL9MsgCLcBGAsYHQ/s0/superhero_316.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_32.mcpack"
+    },
+    {
+      "id": 317,
+      "name_category": "Nature",
+      "title": "Superhero_317",
+      "image": "file:///android_asset/view/superhero_317.png",
+      "skin": "https://1.bp.blogspot.com/-1mAR8vSpFa0/YV1n1Si5i8I/AAAAAAAAAzU/cpf_CgLcTY4cM8X1H9jKv3LQ6hOZ32V1gCLcBGAsYHQ/s0/superhero_317.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_32.mcpack"
+    },
+    {
+      "id": 318,
+      "name_category": "Nature",
+      "title": "Superhero_318",
+      "image": "file:///android_asset/view/superhero_318.png",
+      "skin": "https://1.bp.blogspot.com/-ClKtFLyzxJQ/YV1n2I3r7YI/AAAAAAAAAzY/umWy7sKwpF8Y8I4V_RuYtsBnARY62M9ngCLcBGAsYHQ/s0/superhero_318.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_32.mcpack"
+    },
+    {
+      "id": 319,
+      "name_category": "Nature",
+      "title": "Superhero_319",
+      "image": "file:///android_asset/view/superhero_319.png",
+      "skin": "https://1.bp.blogspot.com/-AH2cHKMbil0/YV1n2jlW3eI/AAAAAAAAAzc/VIe2xKpN0dkWF674MZny-2loJk6YPa_0ACLcBGAsYHQ/s0/superhero_319.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_32.mcpack"
+    },
+    {
+      "id": 320,
+      "name_category": "Nature",
+      "title": "Superhero_320",
+      "image": "file:///android_asset/view/superhero_320.png",
+      "skin": "https://1.bp.blogspot.com/-VryUg4Ob7Fo/YV1n2v9vufI/AAAAAAAAAzg/cNhsfnv3YQ45zMBQ-GRDwrZG0-_miy-ZgCLcBGAsYHQ/s0/superhero_320.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_32.mcpack"
+    },
+    {
+      "id": 321,
+      "name_category": "Nature",
+      "title": "Superhero_321",
+      "image": "file:///android_asset/view/superhero_321.png",
+      "skin": "https://1.bp.blogspot.com/-GpkWvvm6A9M/YV1n3GUUNZI/AAAAAAAAAzk/3ebFAm0-a0UOGc4zDWjPYl0OM_QF2QoXQCLcBGAsYHQ/s0/superhero_321.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_33.mcpack"
+    },
+    {
+      "id": 322,
+      "name_category": "Nature",
+      "title": "Superhero_322",
+      "image": "file:///android_asset/view/superhero_322.png",
+      "skin": "https://1.bp.blogspot.com/--4caVrlYKfo/YV1n3jWqPGI/AAAAAAAAAzo/QSNm17NhM4I7QatL1Tm20KJcm_jD89-bACLcBGAsYHQ/s0/superhero_322.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_33.mcpack"
+    },
+    {
+      "id": 323,
+      "name_category": "Nature",
+      "title": "Superhero_323",
+      "image": "file:///android_asset/view/superhero_323.png",
+      "skin": "https://1.bp.blogspot.com/-42qKdf2Dtyk/YV1n3vGNIoI/AAAAAAAAAzs/SdZbLo6mp-47T06oM5GzwtabAiixg6ejACLcBGAsYHQ/s0/superhero_323.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_33.mcpack"
+    },
+    {
+      "id": 324,
+      "name_category": "Nature",
+      "title": "Superhero_324",
+      "image": "file:///android_asset/view/superhero_324.png",
+      "skin": "https://1.bp.blogspot.com/-B45q_BoPCIM/YV1n34NjZqI/AAAAAAAAAzw/e5YSdurkRn8pXH4TK9yxMosvdacZXEUlwCLcBGAsYHQ/s0/superhero_324.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_33.mcpack"
+    },
+    {
+      "id": 325,
+      "name_category": "Nature",
+      "title": "Superhero_325",
+      "image": "file:///android_asset/view/superhero_325.png",
+      "skin": "https://1.bp.blogspot.com/-203DsnJ3_gM/YV1n4Y3s0zI/AAAAAAAAAz0/i7cNVxnpjw8H8WHvi4vkX7u-jl9wasJbwCLcBGAsYHQ/s0/superhero_325.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_33.mcpack"
+    },
+    {
+      "id": 326,
+      "name_category": "Nature",
+      "title": "Superhero_326",
+      "image": "file:///android_asset/view/superhero_326.png",
+      "skin": "https://1.bp.blogspot.com/-EqEmxdOlgos/YV1n4ZGblFI/AAAAAAAAAz4/pKzdEleSr6IBDQGDEulxmDTG0WMUauNNQCLcBGAsYHQ/s0/superhero_326.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_33.mcpack"
+    },
+    {
+      "id": 327,
+      "name_category": "Nature",
+      "title": "Superhero_327",
+      "image": "file:///android_asset/view/superhero_327.png",
+      "skin": "https://1.bp.blogspot.com/-oWEXgjVnIOs/YV1n4vVieeI/AAAAAAAAAz8/UOFINf6VePI4QIdoUT4jaj2SlQte41x1QCLcBGAsYHQ/s0/superhero_327.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_33.mcpack"
+    },
+    {
+      "id": 328,
+      "name_category": "Nature",
+      "title": "Superhero_328",
+      "image": "file:///android_asset/view/superhero_328.png",
+      "skin": "https://1.bp.blogspot.com/-DQli_YbtWwg/YV1n5POG7LI/AAAAAAAAA0A/TigG_2cTO8QzGySAAdk-PR5tzCHV0_rmgCLcBGAsYHQ/s0/superhero_328.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_33.mcpack"
+    },
+    {
+      "id": 329,
+      "name_category": "Nature",
+      "title": "Superhero_329",
+      "image": "file:///android_asset/view/superhero_329.png",
+      "skin": "https://1.bp.blogspot.com/-wE_Vc-lWbC8/YV1n5Zr9RvI/AAAAAAAAA0E/vgsEfVocPLwftb-HUUHBlkohccO-yIgOACLcBGAsYHQ/s0/superhero_329.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_33.mcpack"
+    },
+    {
+      "id": 330,
+      "name_category": "Nature",
+      "title": "Superhero_330",
+      "image": "file:///android_asset/view/superhero_330.png",
+      "skin": "https://1.bp.blogspot.com/-5kMLGh6JztA/YV1n5dp5c8I/AAAAAAAAA0I/8im0ObIrszQqBeQVmtLcNR_sovoqLdf8ACLcBGAsYHQ/s0/superhero_330.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_33.mcpack"
+    },
+    {
+      "id": 331,
+      "name_category": "Nature",
+      "title": "Superhero_331",
+      "image": "file:///android_asset/view/superhero_331.png",
+      "skin": "https://1.bp.blogspot.com/-h1c_RpZTDW4/YV1n6PSNKqI/AAAAAAAAA0M/fnKqE8gy4w0ESGA_6ttW42gGk711jn2cgCLcBGAsYHQ/s0/superhero_331.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_34.mcpack"
+    },
+    {
+      "id": 332,
+      "name_category": "Nature",
+      "title": "Superhero_332",
+      "image": "file:///android_asset/view/superhero_332.png",
+      "skin": "https://1.bp.blogspot.com/-rrAhZ6Ktebg/YV1n6lzUiGI/AAAAAAAAA0Q/SmtF1ozF14IW9ghUYRfU67r2Q3tRe3UXACLcBGAsYHQ/s0/superhero_332.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_34.mcpack"
+    },
+    {
+      "id": 333,
+      "name_category": "Nature",
+      "title": "Superhero_333",
+      "image": "file:///android_asset/view/superhero_333.png",
+      "skin": "https://1.bp.blogspot.com/-nX_fP5fBdGw/YV1n6gOU5kI/AAAAAAAAA0U/MCEbO_E4uHUDMZPZSTCivjOC0uhGXX-lACLcBGAsYHQ/s0/superhero_333.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_34.mcpack"
+    },
+    {
+      "id": 334,
+      "name_category": "Nature",
+      "title": "Superhero_334",
+      "image": "file:///android_asset/view/superhero_334.png",
+      "skin": "https://1.bp.blogspot.com/-bnFviw8VwzQ/YV1n665z8lI/AAAAAAAAA0Y/xmyRdKl4XhciLhNRlMJ_TPK5xW5MGDwVwCLcBGAsYHQ/s0/superhero_334.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_34.mcpack"
+    },
+    {
+      "id": 335,
+      "name_category": "Nature",
+      "title": "Superhero_335",
+      "image": "file:///android_asset/view/superhero_335.png",
+      "skin": "https://1.bp.blogspot.com/-jZM4NZHf8DU/YV1n7YXlIHI/AAAAAAAAA0g/Gbs1ObwD3ek9AMCTPfWBy-xiHur8uRZsACLcBGAsYHQ/s0/superhero_335.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_34.mcpack"
+    },
+    {
+      "id": 336,
+      "name_category": "Nature",
+      "title": "Superhero_336",
+      "image": "file:///android_asset/view/superhero_336.png",
+      "skin": "https://1.bp.blogspot.com/-hdHkfjDoEuo/YV1n7F_mEsI/AAAAAAAAA0c/HER1Hsmw1UMV-qvqhOWcseLuhNoXLQGQQCLcBGAsYHQ/s0/superhero_336.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_34.mcpack"
+    },
+    {
+      "id": 337,
+      "name_category": "Nature",
+      "title": "Superhero_337",
+      "image": "file:///android_asset/view/superhero_337.png",
+      "skin": "https://1.bp.blogspot.com/-90gYEdyNQcY/YV1n7iORknI/AAAAAAAAA0k/vg7s08JPCkwy89BwDCcZtlbzGDfeHXj4gCLcBGAsYHQ/s0/superhero_337.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_34.mcpack"
+    },
+    {
+      "id": 338,
+      "name_category": "Nature",
+      "title": "Superhero_338",
+      "image": "file:///android_asset/view/superhero_338.png",
+      "skin": "https://1.bp.blogspot.com/-uGmFDI9bt08/YV1n8PalxrI/AAAAAAAAA0o/7BNb7cEjZtIpDy9DW2IIU07J64AYksNPQCLcBGAsYHQ/s0/superhero_338.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_34.mcpack"
+    },
+    {
+      "id": 339,
+      "name_category": "Nature",
+      "title": "Superhero_339",
+      "image": "file:///android_asset/view/superhero_339.png",
+      "skin": "https://1.bp.blogspot.com/-l0YyOvoVs1Q/YV1n8NPRMOI/AAAAAAAAA0s/MMzfgvi9ye4l5EIA6JR5OieZupasTS0mgCLcBGAsYHQ/s0/superhero_339.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_34.mcpack"
+    },
+    {
+      "id": 340,
+      "name_category": "Nature",
+      "title": "Superhero_340",
+      "image": "file:///android_asset/view/superhero_340.png",
+      "skin": "https://1.bp.blogspot.com/-0PDKUc9YzYw/YV1n8drvVQI/AAAAAAAAA0w/_0ashBIiJPUCYmGYV-Vd5fLihCwrWPi_wCLcBGAsYHQ/s0/superhero_340.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_34.mcpack"
+    },
+    {
+      "id": 341,
+      "name_category": "Nature",
+      "title": "Superhero_341",
+      "image": "file:///android_asset/view/superhero_341.png",
+      "skin": "https://1.bp.blogspot.com/-FvEgqfJG-lI/YV1n84E-zoI/AAAAAAAAA00/rtrUl1uCNts8hN0E1HCnticXcVBvnX4DQCLcBGAsYHQ/s0/superhero_341.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_35.mcpack"
+    },
+    {
+      "id": 342,
+      "name_category": "Nature",
+      "title": "Superhero_342",
+      "image": "file:///android_asset/view/superhero_342.png",
+      "skin": "https://1.bp.blogspot.com/-c8vw_Ln2Ra4/YV1n9J7O-UI/AAAAAAAAA04/HiTc69jNfXYq3CNqFK5Vbly0fXQ-5p6UQCLcBGAsYHQ/s0/superhero_342.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_35.mcpack"
+    },
+    {
+      "id": 343,
+      "name_category": "Nature",
+      "title": "Superhero_343",
+      "image": "file:///android_asset/view/superhero_343.png",
+      "skin": "https://1.bp.blogspot.com/-u_sESCge3M4/YV1n9RPf1OI/AAAAAAAAA08/L26NDQ8Ql_wEJSv6gB_odrk7l04vxs93wCLcBGAsYHQ/s0/superhero_343.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_35.mcpack"
+    },
+    {
+      "id": 344,
+      "name_category": "Nature",
+      "title": "Superhero_344",
+      "image": "file:///android_asset/view/superhero_344.png",
+      "skin": "https://1.bp.blogspot.com/-LQPndYlZajA/YV1n9l0AG0I/AAAAAAAAA1A/C1LDJ-HdC4UiVvl85cUAzxeOxrZOh3kCQCLcBGAsYHQ/s0/superhero_344.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_35.mcpack"
+    },
+    {
+      "id": 345,
+      "name_category": "Nature",
+      "title": "Superhero_345",
+      "image": "file:///android_asset/view/superhero_345.png",
+      "skin": "https://1.bp.blogspot.com/-Kdr0TM2TXy8/YV1n904S78I/AAAAAAAAA1E/7s7u53uz4AIoYiURW_0ee0NWU-LWmE_jwCLcBGAsYHQ/s0/superhero_345.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_35.mcpack"
+    },
+    {
+      "id": 346,
+      "name_category": "Nature",
+      "title": "Superhero_346",
+      "image": "file:///android_asset/view/superhero_346.png",
+      "skin": "https://1.bp.blogspot.com/-iDWLjn56qG4/YV1n-Eq-5BI/AAAAAAAAA1I/8q_zZjW4agEkYq16xRCZqytZdTMfw720QCLcBGAsYHQ/s0/superhero_346.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_35.mcpack"
+    },
+    {
+      "id": 347,
+      "name_category": "Nature",
+      "title": "Superhero_347",
+      "image": "file:///android_asset/view/superhero_347.png",
+      "skin": "https://1.bp.blogspot.com/-U7R0nTbZVew/YV1n-XgVR4I/AAAAAAAAA1M/j7yqiiAWEDwFP3Wz6TRH_7I1QZ1O9U5-QCLcBGAsYHQ/s0/superhero_347.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_35.mcpack"
+    },
+    {
+      "id": 348,
+      "name_category": "Nature",
+      "title": "Superhero_348",
+      "image": "file:///android_asset/view/superhero_348.png",
+      "skin": "https://1.bp.blogspot.com/-sXIeCr-deqQ/YV1n-oJLdXI/AAAAAAAAA1Q/RyoS4YINCAUU5s7LoOKse1j74LrOBOcGACLcBGAsYHQ/s0/superhero_348.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_35.mcpack"
+    },
+    {
+      "id": 349,
+      "name_category": "Nature",
+      "title": "Superhero_349",
+      "image": "file:///android_asset/view/superhero_349.png",
+      "skin": "https://1.bp.blogspot.com/-Rlr2V1S0V3w/YV1n-zABrLI/AAAAAAAAA1U/kBbHFsekYEwStgusDRK6h0tpgI3xpkk9ACLcBGAsYHQ/s0/superhero_349.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_35.mcpack"
+    },
+    {
+      "id": 350,
+      "name_category": "Nature",
+      "title": "Superhero_350",
+      "image": "file:///android_asset/view/superhero_350.png",
+      "skin": "https://1.bp.blogspot.com/-zaHPn81PtiA/YV1n_amx_zI/AAAAAAAAA1Y/8CZkgFESS4QZNTeGGgGIa3FvASNe0zEXwCLcBGAsYHQ/s0/superhero_350.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_35.mcpack"
+    },
+    {
+      "id": 351,
+      "name_category": "Nature",
+      "title": "Superhero_351",
+      "image": "file:///android_asset/view/superhero_351.png",
+      "skin": "https://1.bp.blogspot.com/-OB8axk7BUAY/YV1n_oK3fCI/AAAAAAAAA1c/Tdyiyf6vaZMcW3cm39R-Boa9ZxGkTk_qgCLcBGAsYHQ/s0/superhero_351.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_36.mcpack"
+    },
+    {
+      "id": 352,
+      "name_category": "Nature",
+      "title": "Superhero_352",
+      "image": "file:///android_asset/view/superhero_352.png",
+      "skin": "https://1.bp.blogspot.com/-2BxURrdg8TY/YV1n_i8UOqI/AAAAAAAAA1g/VqhyWF5JcMEwtGx5UsnVpa8Hzoz9oUENQCLcBGAsYHQ/s0/superhero_352.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_36.mcpack"
+    },
+    {
+      "id": 353,
+      "name_category": "Nature",
+      "title": "Superhero_353",
+      "image": "file:///android_asset/view/superhero_353.png",
+      "skin": "https://1.bp.blogspot.com/-2kyHBX_id3c/YV1oAeElsfI/AAAAAAAAA1k/nwoV24MKesMezeTMf3fVIfAobFteJ-O8wCLcBGAsYHQ/s0/superhero_353.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_36.mcpack"
+    },
+    {
+      "id": 354,
+      "name_category": "Nature",
+      "title": "Superhero_354",
+      "image": "file:///android_asset/view/superhero_354.png",
+      "skin": "https://1.bp.blogspot.com/-1g6P8RkH9Uo/YV1oAi3d05I/AAAAAAAAA1s/ECIGxaGg2NUUDwCCK3lARSRrKOmaEckmQCLcBGAsYHQ/s0/superhero_354.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_36.mcpack"
+    },
+    {
+      "id": 355,
+      "name_category": "Nature",
+      "title": "Superhero_355",
+      "image": "file:///android_asset/view/superhero_355.png",
+      "skin": "https://1.bp.blogspot.com/-0Mv8d-vnxlI/YV1oAuAgIGI/AAAAAAAAA1o/cwXb_e2Vqkk2kTAdvUFvkmqpxI4JXp4_QCLcBGAsYHQ/s0/superhero_355.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_36.mcpack"
+    },
+    {
+      "id": 356,
+      "name_category": "Nature",
+      "title": "Superhero_356",
+      "image": "file:///android_asset/view/superhero_356.png",
+      "skin": "https://1.bp.blogspot.com/-ZVxz0yGjqEY/YV1oBCHq-RI/AAAAAAAAA1w/ckBV7nWXsg8GQIK-dmIcbpjDuRw0nJ7kwCLcBGAsYHQ/s0/superhero_356.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_36.mcpack"
+    },
+    {
+      "id": 357,
+      "name_category": "Nature",
+      "title": "Superhero_357",
+      "image": "file:///android_asset/view/superhero_357.png",
+      "skin": "https://1.bp.blogspot.com/-36Lov1BnFds/YV1oBtxBGDI/AAAAAAAAA10/QRIQtlVI7dsTy-Je4qPMvoAG0jaGgXpdACLcBGAsYHQ/s0/superhero_357.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_36.mcpack"
+    },
+    {
+      "id": 358,
+      "name_category": "Nature",
+      "title": "Superhero_358",
+      "image": "file:///android_asset/view/superhero_358.png",
+      "skin": "https://1.bp.blogspot.com/-RZR3P6wdl4U/YV1oCP7h-kI/AAAAAAAAA14/4wi8aiAOEJEkbbuU97V1MrcdPWfpSg3JwCLcBGAsYHQ/s0/superhero_358.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_36.mcpack"
+    },
+    {
+      "id": 359,
+      "name_category": "Nature",
+      "title": "Superhero_359",
+      "image": "file:///android_asset/view/superhero_359.png",
+      "skin": "https://1.bp.blogspot.com/-FLlqFwWaRO4/YV1oCEVstjI/AAAAAAAAA18/swUgOKA0DzMDVtUDvCm3Cfuy0Kuaa9JqgCLcBGAsYHQ/s0/superhero_359.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_36.mcpack"
+    },
+    {
+      "id": 360,
+      "name_category": "Nature",
+      "title": "Superhero_360",
+      "image": "file:///android_asset/view/superhero_360.png",
+      "skin": "https://1.bp.blogspot.com/-PIeGbsNKh9Y/YV1oCT6GUhI/AAAAAAAAA2A/i8K0oBgdzs8wfLj7LaYIK7C6f3hLZUS7gCLcBGAsYHQ/s0/superhero_360.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_36.mcpack"
+    },
+    {
+      "id": 361,
+      "name_category": "Nature",
+      "title": "Superhero_361",
+      "image": "file:///android_asset/view/superhero_361.png",
+      "skin": "https://1.bp.blogspot.com/-zR32DF2IuT4/YV1oC1CYZOI/AAAAAAAAA2E/LPJX31_SuZgbEDwQlHnGOA7Nmg1bYWNtQCLcBGAsYHQ/s0/superhero_361.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_37.mcpack"
+    },
+    {
+      "id": 362,
+      "name_category": "Nature",
+      "title": "Superhero_362",
+      "image": "file:///android_asset/view/superhero_362.png",
+      "skin": "https://1.bp.blogspot.com/-26eNbQO5w3Y/YV1oDHdPc_I/AAAAAAAAA2I/FZ82_i_DbloK_mjQ8AEoMcCizIK3yX2nACLcBGAsYHQ/s0/superhero_362.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_37.mcpack"
+    },
+    {
+      "id": 363,
+      "name_category": "Nature",
+      "title": "Superhero_363",
+      "image": "file:///android_asset/view/superhero_363.png",
+      "skin": "https://1.bp.blogspot.com/-wyD-Hnkz-VE/YV1oDLJCkzI/AAAAAAAAA2M/Bw6IDcrXkcsq6aS7ll0G92AvuBOl5qXvwCLcBGAsYHQ/s0/superhero_363.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_37.mcpack"
+    },
+    {
+      "id": 364,
+      "name_category": "Nature",
+      "title": "Superhero_364",
+      "image": "file:///android_asset/view/superhero_364.png",
+      "skin": "https://1.bp.blogspot.com/-BxiAME5RILs/YV1oDsSi8mI/AAAAAAAAA2Q/AOShrAbemTERRxrkT7WABl1Rn3T68p3SQCLcBGAsYHQ/s0/superhero_364.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_37.mcpack"
+    },
+    {
+      "id": 365,
+      "name_category": "Nature",
+      "title": "Superhero_365",
+      "image": "file:///android_asset/view/superhero_365.png",
+      "skin": "https://1.bp.blogspot.com/-CPt5NNrCo7w/YV1oEAVS02I/AAAAAAAAA2U/eu57z6sChAIbK_ZLsarb2FmDbjukJkMCwCLcBGAsYHQ/s0/superhero_365.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_37.mcpack"
+    },
+    {
+      "id": 366,
+      "name_category": "Nature",
+      "title": "Superhero_366",
+      "image": "file:///android_asset/view/superhero_366.png",
+      "skin": "https://1.bp.blogspot.com/-pmWjA4EvjHw/YV1oEcyvT4I/AAAAAAAAA2Y/rXqi3snmM18cCLD8FLy0htAjUhUB3JAIQCLcBGAsYHQ/s0/superhero_366.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_37.mcpack"
+    },
+    {
+      "id": 367,
+      "name_category": "Nature",
+      "title": "Superhero_367",
+      "image": "file:///android_asset/view/superhero_367.png",
+      "skin": "https://1.bp.blogspot.com/-XP54UIUzveU/YV1oEnMwdTI/AAAAAAAAA2c/hV0mft5HdxAn_0gzk_5snarWFKqJMkd9wCLcBGAsYHQ/s0/superhero_367.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_37.mcpack"
+    },
+    {
+      "id": 368,
+      "name_category": "Nature",
+      "title": "Superhero_368",
+      "image": "file:///android_asset/view/superhero_368.png",
+      "skin": "https://1.bp.blogspot.com/-z_PZz9NPKbk/YV1oEwy_aOI/AAAAAAAAA2g/wFbrIBk2O3c-mWJEL-1UrMYLruCw761lgCLcBGAsYHQ/s0/superhero_368.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_37.mcpack"
+    },
+    {
+      "id": 369,
+      "name_category": "Nature",
+      "title": "Superhero_369",
+      "image": "file:///android_asset/view/superhero_369.png",
+      "skin": "https://1.bp.blogspot.com/-hRAIwQBkaos/YV1oFGAyrvI/AAAAAAAAA2k/4PuZQRY4j2wP_CQQGKgM8TaTxOmS8qb9gCLcBGAsYHQ/s0/superhero_369.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_37.mcpack"
+    },
+    {
+      "id": 370,
+      "name_category": "Nature",
+      "title": "Superhero_370",
+      "image": "file:///android_asset/view/superhero_370.png",
+      "skin": "https://1.bp.blogspot.com/-WSum8TMr2pQ/YV1oFdDYJXI/AAAAAAAAA2o/_BPsNBXFRm0gT0bJBMI8jnTihSM-EJuTQCLcBGAsYHQ/s0/superhero_370.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_37.mcpack"
+    },
+    {
+      "id": 371,
+      "name_category": "Nature",
+      "title": "Superhero_371",
+      "image": "file:///android_asset/view/superhero_371.png",
+      "skin": "https://1.bp.blogspot.com/-ReQboTqWDjo/YV1oFo0r0xI/AAAAAAAAA2s/y-foOL4weq4nb-3hPKvfJaqaqSm8u7legCLcBGAsYHQ/s0/superhero_371.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_38.mcpack"
+    },
+    {
+      "id": 372,
+      "name_category": "Nature",
+      "title": "Superhero_372",
+      "image": "file:///android_asset/view/superhero_372.png",
+      "skin": "https://1.bp.blogspot.com/-0LEOmMSLiXg/YV1oF16c9SI/AAAAAAAAA2w/e9dzXn9H7Bc_Pat3GgkH77ts2dT4CNKEwCLcBGAsYHQ/s0/superhero_372.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_38.mcpack"
+    },
+    {
+      "id": 373,
+      "name_category": "Nature",
+      "title": "Superhero_373",
+      "image": "file:///android_asset/view/superhero_373.png",
+      "skin": "https://1.bp.blogspot.com/-AQ5t9UQai3Q/YV1oGE2TMGI/AAAAAAAAA24/QvOXEUsQyMAGZMpfPk6BQ2BTWFzeD6iNACLcBGAsYHQ/s0/superhero_373.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_38.mcpack"
+    },
+    {
+      "id": 374,
+      "name_category": "Nature",
+      "title": "Superhero_374",
+      "image": "file:///android_asset/view/superhero_374.png",
+      "skin": "https://1.bp.blogspot.com/-S2kz6yBH960/YV1oGMXjSQI/AAAAAAAAA20/h4YSkmgGYMYnKfNeyqyvyYZYs-Z7YmyLwCLcBGAsYHQ/s0/superhero_374.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_38.mcpack"
+    },
+    {
+      "id": 375,
+      "name_category": "Nature",
+      "title": "Superhero_375",
+      "image": "file:///android_asset/view/superhero_375.png",
+      "skin": "https://1.bp.blogspot.com/-1xO9eWCv4-A/YV1oGXpPuHI/AAAAAAAAA28/MoxzD4XaV7szvibv9WHhEyQFTTZVGQeowCLcBGAsYHQ/s0/superhero_375.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_38.mcpack"
+    },
+    {
+      "id": 376,
+      "name_category": "Nature",
+      "title": "Superhero_376",
+      "image": "file:///android_asset/view/superhero_376.png",
+      "skin": "https://1.bp.blogspot.com/-PmVPs8RGZBE/YV1oG3T2u5I/AAAAAAAAA3A/kCagIT9zZZsv1WZYr-LgmJR-pbMX1vwIACLcBGAsYHQ/s0/superhero_376.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_38.mcpack"
+    },
+    {
+      "id": 377,
+      "name_category": "Nature",
+      "title": "Superhero_377",
+      "image": "file:///android_asset/view/superhero_377.png",
+      "skin": "https://1.bp.blogspot.com/-K5Seu_D2rxM/YV1oHAHYxLI/AAAAAAAAA3I/5BYlAgO7c44U87_d1NEO5cV6TX0xkf-1ACLcBGAsYHQ/s0/superhero_377.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_38.mcpack"
+    },
+    {
+      "id": 378,
+      "name_category": "Nature",
+      "title": "Superhero_378",
+      "image": "file:///android_asset/view/superhero_378.png",
+      "skin": "https://1.bp.blogspot.com/-MxIBp-VWU-I/YV1oHDsUDrI/AAAAAAAAA3E/zEbCgtoHoFkKLbTNoh5CSe4dI7NOVx7fgCLcBGAsYHQ/s0/superhero_378.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_38.mcpack"
+    },
+    {
+      "id": 379,
+      "name_category": "Nature",
+      "title": "Superhero_379",
+      "image": "file:///android_asset/view/superhero_379.png",
+      "skin": "https://1.bp.blogspot.com/-JorXCvz3xTQ/YV1oHzd9x7I/AAAAAAAAA3M/AnZnQsqAnOELOjF3fikX0i7U9PycABFJQCLcBGAsYHQ/s0/superhero_379.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_38.mcpack"
+    },
+    {
+      "id": 380,
+      "name_category": "Nature",
+      "title": "Superhero_380",
+      "image": "file:///android_asset/view/superhero_380.png",
+      "skin": "https://1.bp.blogspot.com/-wHNacJVVlvU/YV1oIE3yWzI/AAAAAAAAA3Q/YHm15O1mqxEAmQpvgXGAoYLDFe9CYw4hACLcBGAsYHQ/s0/superhero_380.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_38.mcpack"
+    },
+    {
+      "id": 381,
+      "name_category": "Nature",
+      "title": "Superhero_381",
+      "image": "file:///android_asset/view/superhero_381.png",
+      "skin": "https://1.bp.blogspot.com/-HQAbpi_HjD8/YV1oIWcu0FI/AAAAAAAAA3U/a9zjlBKrw_I90WPKT8ouEbXbUTxtKVdJACLcBGAsYHQ/s0/superhero_381.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_39.mcpack"
+    },
+    {
+      "id": 382,
+      "name_category": "Nature",
+      "title": "Superhero_382",
+      "image": "file:///android_asset/view/superhero_382.png",
+      "skin": "https://1.bp.blogspot.com/-xnu4l0BVb-Y/YV1oIjGn5aI/AAAAAAAAA3Y/n6Zv9odjJpkqCeqDIhns5PvJzyTkviwjwCLcBGAsYHQ/s0/superhero_382.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_39.mcpack"
+    },
+    {
+      "id": 383,
+      "name_category": "Nature",
+      "title": "Superhero_383",
+      "image": "file:///android_asset/view/superhero_383.png",
+      "skin": "https://1.bp.blogspot.com/-phr7Jmmz59o/YV1oIxKAbyI/AAAAAAAAA3c/PHloapiuMZQN4Teoh_XWt9FahSfWNLpSACLcBGAsYHQ/s0/superhero_383.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_39.mcpack"
+    },
+    {
+      "id": 384,
+      "name_category": "Nature",
+      "title": "Superhero_384",
+      "image": "file:///android_asset/view/superhero_384.png",
+      "skin": "https://1.bp.blogspot.com/-BustlDp7_8M/YV1oJHxZXPI/AAAAAAAAA3g/1nEHL-LKapUabYrZMRVAH_8P5wS9x1gywCLcBGAsYHQ/s0/superhero_384.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_39.mcpack"
+    },
+    {
+      "id": 385,
+      "name_category": "Nature",
+      "title": "Superhero_385",
+      "image": "file:///android_asset/view/superhero_385.png",
+      "skin": "https://1.bp.blogspot.com/-iftAklmDrQ8/YV1oJao00hI/AAAAAAAAA3k/yX9ZMUFqv2Epcf5X-KgqjcYJNUS85zTpQCLcBGAsYHQ/s0/superhero_385.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_39.mcpack"
+    },
+    {
+      "id": 386,
+      "name_category": "Nature",
+      "title": "Superhero_386",
+      "image": "file:///android_asset/view/superhero_386.png",
+      "skin": "https://1.bp.blogspot.com/-t6cNcj58wZ4/YV1oJirlrSI/AAAAAAAAA3s/0HiLi9A3gpQiq9ReH4RgrOlWJjya2Dg-gCLcBGAsYHQ/s0/superhero_386.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_39.mcpack"
+    },
+    {
+      "id": 387,
+      "name_category": "Nature",
+      "title": "Superhero_387",
+      "image": "file:///android_asset/view/superhero_387.png",
+      "skin": "https://1.bp.blogspot.com/-7sphyZP76Zs/YV1oJhv2zsI/AAAAAAAAA3o/k8SEIqi0GdUwGA946cneFTF5pk-uOVORACLcBGAsYHQ/s0/superhero_387.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_39.mcpack"
+    },
+    {
+      "id": 388,
+      "name_category": "Nature",
+      "title": "Superhero_388",
+      "image": "file:///android_asset/view/superhero_388.png",
+      "skin": "https://1.bp.blogspot.com/-QwOg4kfHca4/YV1oJ8B5pGI/AAAAAAAAA3w/4v7OXLaBBFs90Ji39-EqKvksWAXfGJmsgCLcBGAsYHQ/s0/superhero_388.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_39.mcpack"
+    },
+    {
+      "id": 389,
+      "name_category": "Nature",
+      "title": "Superhero_389",
+      "image": "file:///android_asset/view/superhero_389.png",
+      "skin": "https://1.bp.blogspot.com/-c-nJsoFaqC4/YV1oKiDLdAI/AAAAAAAAA30/ku-LTLPNjsYMjcmivNavyymqj8w6dj4FwCLcBGAsYHQ/s0/superhero_389.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_39.mcpack"
+    },
+    {
+      "id": 390,
+      "name_category": "Nature",
+      "title": "Superhero_390",
+      "image": "file:///android_asset/view/superhero_390.png",
+      "skin": "https://1.bp.blogspot.com/-7oMvL-UsLaU/YV1oLFdc0YI/AAAAAAAAA34/BOTWT7UjeiMRf1QJPy4cpv5BZCT8-HQMQCLcBGAsYHQ/s0/superhero_390.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_39.mcpack"
+    },
+    {
+      "id": 391,
+      "name_category": "Nature",
+      "title": "Superhero_391",
+      "image": "file:///android_asset/view/superhero_391.png",
+      "skin": "https://1.bp.blogspot.com/-XThiv_OYB6w/YV1oLqOdMNI/AAAAAAAAA38/X1nq6UNufdM1nPPIFlbjU5hxUwX8fhi7QCLcBGAsYHQ/s0/superhero_391.png",
+      "download": "https://github.com/mciconcraft/tyrannozz/raw/main/superhero_39.mcpack"
+    }
+  ]
+}
